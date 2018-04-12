@@ -473,14 +473,27 @@
     }
     });
 
-    // Fix menu for Opera Mini and Android Browsers < 4.4v
-    if(navigator.userAgent.match(/(Opera Mini)|(534\.30)|(534\.13)|(530\.17)|(533\.1)/i )){ 
-        if($('nav.navbar').length){
-            var color = $('nav.navbar .nav-link').css('color') || '#c8c8c8';
-            $('.navbar-toggler .hamburger-icon').remove();
-            $('.navbar-toggler:eq(0)').addClass('collapsed').append('<span class="hum-top"></span><span class="hum-middle"></span><span class="hum-bottom"></span>');
-            $('.navbar-toggler span').not('.close-icon').css('background-color', color);
-        }
-    }    
+    //Fix menu for Mobile Phones 
+    
+    var agentIndex = function(name) {
+        return this.navigator.userAgent.indexOf(name);
+    };
+    var isMobile = (agentIndex('Mobile') != -1 || ((agentIndex('Android') != -1) && (agentIndex('Browser') != -1)));
+      if(isMobile){
+        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#fff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
+        $('.mbr-arrow img').css({'top':'20px', 'right':'13px'});
+    }
 
-})(jQuery);!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.12.1';document.body.insertBefore(a,document.body.childNodes[0])}}();
+})(jQuery);
+!function() {
+    try {
+        document.getElementsByClassName('engine')[0].getElementsByTagName('a')[0].removeAttribute('rel');
+    } catch(err){ }
+    if(!document.getElementById('top-1')) {
+        var e = document.createElement("section");
+        e.id = "top-1";
+        e.className = "engine";
+        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.10.1';
+        document.body.insertBefore(e, document.body.childNodes[0]);
+    }
+}();
