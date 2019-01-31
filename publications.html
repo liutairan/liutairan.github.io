@@ -2,6 +2,8 @@
 <html>
 <head>
   <h1>Tairan Liu's Homepage</h1>
+  <script type="text/javascript" src="bibtex_js.js"></script>
+  <bibtex src="References.bib"></bibtex>
 </head>
 
 <body>
@@ -19,5 +21,71 @@
 <div>
   <h2>Publication List</h2>
 </div>
+
+<div>
+  <datalist id="suggests">
+      <option value="@author=">
+      <option value="@title=">
+      <option value="@year=">
+      <option value="@journal=">
+  </datalist>
+
+  <div id="bibtex_errors"></div>
+  <!-- <h1> Rendered Publications</h1> -->
+
+  <div class="bibtex_topics"> </div>
+
+  <div class="bibtex_structure">
+    <div class="sections bibtextypekey">
+      <div class="section @article">
+        <h3>Journal Articles</h3>
+        <div class="sort year" extra="ASC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+      <div class="section @book">
+        <h3>Books</h3>
+        <div class="sort year" extra="ASC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+      <div class="section @inproceedings">
+        <h3>Conference and Workshop Papers</h3>
+        <div class="sort year" extra="ASC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+      <div class="section @misc|@phdthesis|@mastersthesis|@bachelorsthesis|@techreport">
+        <h3>Other Publications</h3>
+        <div class="sort year" extra="ASC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="bibtex_display">
+
+    <div class="bibtex_template">
+      <ul> <li>
+        <span class="if title">
+          <a class="url">
+              <span class="title"></span>,
+          </a>
+        </span>
+        <div class="if author">
+          <span class="author"></span>
+        </div>
+        <div>
+          <span class="if journal"><em><span class="journal"></span></em></span>
+          <span class="if month"><span class="month"></span>,</span>
+          <span class="if year"><span class="year"></span>.</span>
+        </div>
+      </li></ul>
+    </div>
+
+  </div>
+</div>
+
 </body>
 </html>
