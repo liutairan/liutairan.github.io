@@ -1,5 +1,5 @@
 ﻿
-/* 
+/*
  * Author = Philip Cooksey
  * Edited = September 2018
  * Website = https://github.com/pcooksey/bibtex-js
@@ -9,7 +9,7 @@
  *  no comment handling within strings
  *  no string concatenation
  *  no variable values yet
- 
+
  * Grammar implemented here:
  *  bibtex -> (string | preamble | comment | entry)*;
  *  string -> '@STRING' '{' key_equals_value '}';
@@ -221,6 +221,8 @@ function BibtexParser() {
         if (directive == "@INCOLLECTION") {
             this.entries[this.currentEntry]["BIBTEXTYPE"] = "book chapter";
         } else if (directive == "@INPROCEEDINGS") {
+            this.entries[this.currentEntry]["BIBTEXTYPE"] = "conference, workshop";
+        } else if (directive == "@CONFERENCE") {
             this.entries[this.currentEntry]["BIBTEXTYPE"] = "conference, workshop";
         } else if (directive == "@ARTICLE") {
             this.entries[this.currentEntry]["BIBTEXTYPE"] = "journal";
@@ -573,7 +575,7 @@ function BibtexDisplay() {
             });
         });
 
-        // fill in remaining fields 
+        // fill in remaining fields
         for (var index in keys) {
             var key = keys[index];
             var value = entry[key] || "";
@@ -900,7 +902,7 @@ function bibtex_js_draw() {
     }
 }
 
-/** 
+/**
 BibTex Searcher is used with input form
 */
 function BibTeXSearcher() {
