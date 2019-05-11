@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tairan Liu</title>
+  <h1>Tairan Liu's Homepage</h1>
+  <script type="text/javascript" src="bibtex_js.js"></script>
+  <bibtex src="Publications.bib"></bibtex>
+</head>
+
+<body>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script src="script.js"></script>
+<div class="topnav" id="myTopnav">
+  <a href="index.html">Home</a>
+  <a href="skills.html">Skills</a>
+  <a href="projects.html">Projects</a>
+  <a href="publications.html"  class="active">Publications</a>
+  <a href="contact.html">Contact</a>
+  <a href="about.html">About</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+<div>
+  <h2>Publication List</h2>
+</div>
+
+<div>
+  <datalist id="suggests">
+      <option value="@author=">
+      <option value="@title=">
+      <option value="@year=">
+      <option value="@journal=">
+  </datalist>
+
+  <div id="bibtex_errors"></div>
+
+  <div class="bibtex_topics"> </div>
+
+  <div class="bibtex_structure">
+    <div class="sections bibtextypekey">
+      <div class="section @article">
+        <h3>Refereed Journal Articles</h3>
+        <div class="sort year" extra="DESC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+      <div class="section @book">
+        <h3>Books</h3>
+        <div class="sort year" extra="DESC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+      <div class="section @inproceedings|@conference">
+        <h3>Conference and Workshop Papers</h3>
+        <div class="sort year" extra="DESC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+      <div class="section @misc|@phdthesis|@mastersthesis|@bachelorsthesis|@techreport">
+        <h3>Other Publications</h3>
+        <div class="sort year" extra="DESC number">
+          <div class="templates"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="bibtex_display">
+
+    <div class="bibtex_template">
+      <ul> <li>
+        <span class="if title">
+          <a class="url">
+              <span class="title"></span>,
+          </a>
+        </span>
+        <div class="if author">
+          <span class="author"></span>,
+        </div>
+        <div>
+          <span class="if journal"><em><span class="journal"></span></em>,</span>
+          <span class="if booktitle"><em><span class="booktitle"></span></em>,</span>
+          <span class="if month"><span class="month"></span>,</span>
+          <span class="if year"><span class="year"></span>.</span>
+          <span class="if note"><span class="note"></span>.</span>
+        </div>
+      </li></ul>
+    </div>
+
+  </div>
+</div>
+
+</body>
+</html>
