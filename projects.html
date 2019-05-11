@@ -13,6 +13,159 @@
 
     gtag('config', 'UA-137049575-1');
   </script>
+  
+  
+  <!-- <link rel="stylesheet" href="timeline-style.css"> -->
+  <style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #FFFFFF; <!-- #474e5d; -->
+  font-family: Helvetica, sans-serif;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+a {
+  color: white;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* The actual timeline (the vertical ruler) */
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: orange;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
+}
+
+/* Container around content */
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+/* The circles on the timeline */
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: white; 
+  border: 4px solid #FF9F55;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+/* Place the container to the left */
+.left {
+  left: 0;
+}
+
+/* Place the container to the right */
+.right {
+  left: 50%;
+}
+
+/* Add arrows to the left container (pointing right) */
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid white;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent #333333;
+}
+
+/* Add arrows to the right container (pointing left) */
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent #333333 transparent transparent;
+}
+
+/* Fix the circle for containers on the right side */
+.right::after {
+  left: -16px;
+}
+
+/* The actual content */
+.content {
+  padding: 20px 30px;
+  background-color: #333333; <!--white; -->
+  position: relative;
+  border-radius: 6px;
+}
+
+/* Media queries - Responsive timeline on screens less than 600px wide */
+@media screen and (max-width: 600px) {
+  /* Place the timelime to the left */
+  .timeline::after {
+  left: 31px;
+  }
+  
+  /* Full-width containers */
+  .container {
+  width: 100%;
+  padding-left: 70px;
+  padding-right: 25px;
+  }
+  
+  /* Make sure that all arrows are pointing leftwards */
+  .container::before {
+  left: 60px;
+  border: medium solid white;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent white transparent transparent;
+  }
+
+  /* Make sure all circles are at the same spot */
+  .left::after, .right::after {
+  left: 15px;
+  }
+  
+  /* Make all right containers behave like the left ones */
+  .right {
+  left: 0%;
+  }
+}
+</style>
   <h1>Tairan Liu's Homepage</h1>
 </head>
 
@@ -24,43 +177,94 @@
   <a href="skills.html">Skills</a>
   <a href="projects.html" class="active">Projects</a>
   <a href="publications.html">Publications</a>
-  <a href="contact.html">Contact</a>
+  <!-- <a href="contact.html">Contact</a> -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
-<div>
-  <h2>Research Projects</h2>
-</div>
-<div>
-  <h3>Current Projects</h3>
-</div>
-<p><a href="agriculture_robotic.html">06/2015-Present Aerial Robotic Network for Agricultural Applications</a></p>
-<p>Designed and built quadrotor fleet from scratch. Developed autonomous flight control firmware on MCU and flight control/monitor applications on PC. Developed distributed control network for quadrotors. (Funded by the LSU Economic Development Assistantship (EDA) program.)</p>
-<p><a href="formation.html">06/2015-Present Multi-Agent System Formation Control</a></p>
-<p>Developed new formation control methods, provided mathematical proofs, conducted simulational and experimental validation.</p>
-<div>
-  <h3>Past Projects</h3>
-</div>
-<p><a href="computational_molecule_synthesis.html">10/2015-03/2016 Computational Molecule Synthesis</a></p>
-<p>Developed open-source software which can decompose large molecules to small bio-active fragments, then use fragments to generate target molecules or new molecules for drug design.</p>
-<p><a href="multirotor_agriculture.html">02/2015-06/2015 Multi-rotor Copter in Agriculture</a></p>
-<p>Developed an application to process aerial images. Optimized the software for better processing speed.</p>
-<p><a href="">08/2011-01/2013 Bionic Four-Tail Fin UUV (Mimic Dragonfly)</a></p>
-<p>Developed program on MCU for motor control, developed remote control and wireless data transfer programs on PC and MCU for the bionic UUV with four oscillatory tail fins. The tail fins were designed to mimic the motion pattern of a dragonfly.</p>
-<p><a href="">11/2011-06/2012 Bionic Long Undulatory Fin UUV (Mimic Black Ghost Knifefish)</a></p>
-<p>Designed and built a UUV to mimic the propulsion pattern of black ghost knifefish. Developed program on Arduino for the UUV. Studied the effects of the frequency and amplitude of the swaying fin ray, wave number in the fin surface, and the speed of the incoming flow on propulsion thrust.</p>
-<p><a href="">09/2011-05/2012 Bionic Double-Tail Fin UUV</a></p>
-<p>Conducted experiments to optimize the performance of the double tail fin UUV. Developed a whole system to automatically conduct experiment, collect and process data, and plot results.</p>
-<p><a href="">10/2011-11/2011 Flow Trajectory After Passing Dual Circular Cylinder</a></p>
-<p>Designed and built an adjustable dual circular cylinder model for the fluid experiment. Conducted experiments with hydrogen bubbles, laser beam, and high resolution high speed camera to study the water flow trajectory after passing dual circular cylinder.</p>
-<p><a href="">04/2011-08/2011 Composite Bionic Actuators</a></p>
-<p>Assisted with motion pattern design. Developed programs on Arduino for the actuators.</p>
 
-<div>
-  <h2>Other Projects</h2>
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>July 2016 - Present</h2>
+	  <h3>Aerial Robotic Network for Agricultural Applications</h3>
+      <p>Designed and built quadrotor fleet from scratch. Developed autonomous flight control firmware on MCU and flight control/monitor applications on PC. Developed distributed control network for quadrotors. (Funded by the LSU Economic Development Assistantship (EDA) program.)</p>
+	  <p><a href="agriculture_robotic.html">More >>></a></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>July 2016 - Present</h2>
+	  <h3>Multi-Agent System Formation Control</h3>
+      <p>Developed new formation control methods, provided mathematical proofs, conducted simulational and experimental validation.</p>
+	  <p><a href="formation.html">More >>></a></p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>October 2015 - May 2016</h2>
+	  <h3>Computational Molecule Synthesis</h3>
+      <p>Developed open-source software which can decompose large molecules to small bio-active fragments, then use fragments to generate target molecules or new molecules for drug design.</p>
+	  <p><a href="computational_molecule_synthesis.html">More >>></a></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>February 2015 - June 2015</h2>
+	  <h3>Multi-rotor Copter in Agriculture</h3>
+      <p>Developed an application to process aerial images. Optimized the software for better processing speed.</p>
+	  <p><a href="multirotor_agriculture.html">More >>></a></p>
+    </div>
+  </div>
+  
+  <div class="container left">
+    <div class="content">
+      <h2>August 2011 – January 2013</h2>
+	  <h3>Bionic Four-Tail Fin UUV (Mimic Dragonfly)</h3>
+      <p>Developed program on MCU for motor control, developed remote control and wireless data transfer programs on PC and MCU for the bionic UUV with four oscillatory tail fins. The tail fins were designed to mimic the motion pattern of a dragonfly.</p>
+	  <p><a href="">More >>></a></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>November 2011 – June 2012</h2>
+	  <h3>Bionic Long Undulatory Fin UUV (Mimic Black Ghost Knifefish)</h3>
+      <p>Designed and built a UUV to mimic the propulsion pattern of black ghost knifefish. Developed program on Arduino for the UUV. Studied the effects of the frequency and amplitude of the swaying fin ray, wave number in the fin surface, and the speed of the incoming flow on propulsion thrust.</p>
+	  <p><a href="">More >>></a></p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>September 2011 – May 2012</h2>
+	  <h3>Bionic Double-Tail Fin UUV</h3>
+      <p>Conducted experiments to optimize the performance of the double tail fin UUV. Developed a whole system to automatically conduct experiment, collect and process data, and plot results.</p>
+	  <p><a href="">More >>></a></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>October 2011 – November 2011</h2>
+	  <h3>Flow Trajectory After Passing Dual Circular Cylinder</h3>
+      <p>Designed and built an adjustable dual circular cylinder model for the fluid experiment. Conducted experiments with hydrogen bubbles, laser beam, and high resolution high speed camera to study the water flow trajectory after passing dual circular cylinder.</p>
+	  <p><a href="">More >>></a></p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>April 2011 – August 2011</h2>
+	  <h3>Composite Bionic Actuators</h3>
+      <p>Assisted with motion pattern design. Developed programs on Arduino for the actuators.</p>
+	  <p><a href="">More >>></a></p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>June 2010 – October 2010</h2>
+	  <h3>Robo-Game Competition of USTC (2010)</h3>
+      <p>Participated in prototyping and building of autonomous and manned robots, and developed program on MCU for the autonomous robot.</p>
+	  <p><a href="">More >>></a></p>
+    </div>
+  </div>
+  
 </div>
-<p><a href="https://github.com/liutairan/Librarian">01/2018-07/2018 (Paused) Librarian (Reference Management Software)</a></p>
-<p><a href="">06/2010-10/2010 Robo-Game Competition of USTC (2010)</a></p>
-<p>Participated in prototyping and building of autonomous and manned robots, and developed program on MCU for the autonomous robot.</p>
 
 </body>
 </html>
