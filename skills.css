@@ -28,6 +28,7 @@ a {
   position: relative;
   background-color: inherit;
   width: 100%;
+  max-width: 600px;
 }
 
 /* Place the container to the left */
