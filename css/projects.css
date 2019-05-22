@@ -2,6 +2,11 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #FFFFFF; <!-- #474e5d; -->
+  font-family: Helvetica, sans-serif;
+}
+
 span {
   color: white;
 }
@@ -80,7 +85,7 @@ a {
   right: 30px;
   border: medium solid white;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #7CDBD5;
+  border-color: transparent transparent transparent #333333;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -94,7 +99,7 @@ a {
   left: 30px;
   border: medium solid white;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #7CDBD5 transparent transparent;
+  border-color: transparent #333333 transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -105,7 +110,7 @@ a {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: #7CDBD5;
+  background-color: #333333; <!--white; -->
   position: relative;
   border-radius: 6px;
 }

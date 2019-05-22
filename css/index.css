@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: #FFFFFF;
+}
+
 span {
   color: white;
 }
@@ -49,7 +53,7 @@ img {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: #7CDBD5; /*#333333;*/
+  background-color: #333333;
   position: relative;
   border-radius: 6px;
 }
