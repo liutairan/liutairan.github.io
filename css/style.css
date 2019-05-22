@@ -1,21 +1,6 @@
-/* Page background color */
-body {
-  background-color: #494E6B;
-}
-
-/* h1 color */
-h1 {
-  color: white;
-}
-
-/* h2 color */
-h2 {
-  color: white;
-}
-
 /* Add a black background color to the top navigation */
 .topnav {
-    background-color: #7CDBD5; /*#333;*/
+    background-color: #333;
     overflow: hidden;
 }
 
@@ -38,7 +23,7 @@ h2 {
 
 /* Add an active class to highlight the current page */
 .active {
-    background-color: #66B9BF; /*#777777;*/
+    background-color: #777777;
     color: white;
 }
 
