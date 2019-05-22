@@ -26,6 +26,14 @@ ul {
   color: white;
 }
 
+img {
+  display: block;
+  max-width:600px;
+  max-height:480px;
+  width: 100%;
+  height: auto;
+}
+
 /* Container around content */
 .container {
   padding: 10px 40px;
