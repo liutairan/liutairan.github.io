@@ -26,6 +26,11 @@ ul {
   color: white;
 }
 
+img {
+  float: left;
+  padding: 5px;
+}
+
 /* Container around content */
 .container {
   padding: 10px 40px;
