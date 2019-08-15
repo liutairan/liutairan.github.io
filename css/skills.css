@@ -6,29 +6,43 @@ body {
   background-color: #FFFFFF;
 }
 
-span {
-  color: white;
-}
-
-h3 {
-  color: white;
-  background-color: orange;
-}
-
-p {
-  color: white;
-}
-a {
-  color: white;
-}
-
 /* Container around content */
 .container {
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
+  background-color: white;/*inherit;*/
   width: 100%;
   max-width: 600px;
+}
+
+.container p {
+  color: black;
+}
+
+.container span {
+  color: white;
+}
+
+.container h3 {
+  color: white;
+  background-color: orange;
+}
+
+
+.container a {
+  color: black;
+}
+
+.container ul {
+  color: black;
+}
+
+.container img {
+  display: block;
+  max-width:600px;
+  max-height:480px;
+  width: 100%;
+  height: auto;
 }
 
 /* Place the container to the left */
@@ -43,8 +57,9 @@ a {
 
 /* The actual content */
 .content {
+  border: 2px solid #333333;
   padding: 20px 30px;
-  background-color: #333333;
+  background-color: white; /*333333*/
   position: relative;
   border-radius: 6px;
 }
