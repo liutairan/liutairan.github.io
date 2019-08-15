@@ -6,27 +6,38 @@ body {
   background-color: #FFFFFF;
 }
 
-span {
+/* Container around content */
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: white;/*inherit;*/
+  width: 100%;
+  max-width: 600px;
+}
+
+.container p {
+  color: black;
+}
+
+.container span {
   color: white;
 }
 
-h3 {
+.container h3 {
   color: white;
   background-color: orange;
 }
 
-p {
-  color: white;
-}
-a {
-  color: white;
+
+.container a {
+  color: black;
 }
 
-ul {
-  color: white;
+.container ul {
+  color: black;
 }
 
-img {
+.container img {
   display: block;
   max-width:600px;
   max-height:480px;
@@ -34,14 +45,6 @@ img {
   height: auto;
 }
 
-/* Container around content */
-.container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 100%;
-  max-width: 600px;
-}
 
 /* Place the container to the left */
 .left {
@@ -55,8 +58,9 @@ img {
 
 /* The actual content */
 .content {
+  border: 2px solid #333333;
   padding: 20px 30px;
-  background-color: #333333;
+  background-color: white; /*333333*/
   position: relative;
   border-radius: 6px;
 }
