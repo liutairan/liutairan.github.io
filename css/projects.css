@@ -3,28 +3,8 @@
 }
 
 body {
-  background-color: #FFFFFF; <!-- #474e5d; -->
-  font-family: Helvetica, sans-serif;
-}
-
-span {
-  color: white;
-}
-
-h3 {
-  color: white;
-  background-color: orange;
-}
-
-ul {
-  color: white;
-}
-
-p {
-  color: white;
-}
-a {
-  color: white;
+  background-color: #FFFFFF;
+  /* font-family: Helvetica, sans-serif; */
 }
 
 /* The actual timeline (the vertical ruler) */
@@ -39,7 +19,7 @@ a {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: orange;
+  background-color: #333333;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -54,6 +34,26 @@ a {
   width: 50%;
 }
 
+.container span {
+  color: black;
+}
+
+.container h3 {
+  color: white;
+  background-color: orange;
+}
+
+.container ul {
+  color: black;
+}
+
+.container p {
+  color: black;
+}
+.container a {
+  color: black;
+}
+
 /* The circles on the timeline */
 .container::after {
   content: '';
@@ -62,7 +62,7 @@ a {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #333333;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -113,8 +113,9 @@ a {
 
 /* The actual content */
 .content {
+  border: 2px solid #333333;
   padding: 20px 30px;
-  background-color: #333333; <!--white; -->
+  background-color: white;
   position: relative;
   border-radius: 6px;
 }
