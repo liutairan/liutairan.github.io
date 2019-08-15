@@ -5,8 +5,13 @@
 
 .footer p {
     text-align: center;
+    color: white;
 }
 
 .footer h3 {
+    color: white;
+}
+
+.footer a {
     color: white;
 }
