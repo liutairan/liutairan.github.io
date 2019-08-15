@@ -1,0 +1,12 @@
+.footer {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.footer p {
+    text-align: center;
+}
+
+.footer h3 {
+    color: white;
+}
