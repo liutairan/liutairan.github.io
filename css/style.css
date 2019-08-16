@@ -2,6 +2,9 @@
 .topnav {
     background-color: #333;
     overflow: hidden;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 
 /* Style the links inside the navigation bar */
@@ -37,14 +40,6 @@
   background-color: white;
   /* padding: 1px; */
   /* text-align: center; */
-}
-
-/* The sticky class is added to the navbar with JS when it reaches its scroll position */
-.sticky {
-  position: fixed;
-  top: 0;
-  z-index: 1;
-  width: 100%;
 }
 
 /* When the screen is less than 600 pixels
