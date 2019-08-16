@@ -15,12 +15,15 @@
   </script>
 
   <link rel="stylesheet" href="css/index.css">
-  <h1>Tairan Liu's Homepage</h1>
+  <!-- <h1>Tairan Liu's Homepage</h1> -->
 </head>
 
 <body>
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<script src="js/script.js"></script>
+  <div class="header"><h1>Tairan Liu's Homepage</h1></div>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="js/script.js"></script>
+  <!-- <script src="js/sticky.js"></script> -->
+
 <div class="topnav" id="myTopnav">
   <a href="index.html" class="active">Home</a>
   <a href="skills.html">Skills</a>
@@ -109,7 +112,20 @@
   </div>
 
 </div>
+<script>
+window.onscroll = function() {myStickyFunction()};
 
+var navbar = document.getElementById("myTopnav");
+var sticky = navbar.offsetTop;
+
+function myStickyFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
 <link rel="stylesheet" type="text/css" href="css/footer.css">
 <div class="footer" id="myFooter">
     <p>Social Media:
