@@ -62,7 +62,10 @@
    (display the links vertically instead
    of horizontally) */
 @media screen and (max-width: 600px) {
-  .topnav.responsive {position: sticky;}
+  .topnav.responsive {
+    position: -webkit-sticky;
+    position: sticky;
+  }
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
