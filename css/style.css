@@ -84,7 +84,10 @@
 }
 
 @media screen and (max-device-width: 600px) and (-webkit-min-device-pixel-ratio: 2) {
-  .topnav.responsive {position: sticky;}
+  .topnav.responsive {
+    position: -webkit-sticky;
+    position: sticky;
+  }
   .topnav.responsive a.icon {
     position: absolute;
     right: 0;
