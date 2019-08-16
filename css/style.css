@@ -35,13 +35,9 @@
 
 .header {
   background-color: white;
-  padding: 30px;
-  text-align: center;
+  /* padding: 1px; */
+  /* text-align: center; */
 }
-
-/* .testBar {
-  padding: 16px;
-} */
 
 /* The sticky class is added to the navbar with JS when it reaches its scroll position */
 .sticky {
@@ -50,11 +46,6 @@
   z-index: 1;
   width: 100%;
 }
-
-/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
-/* .sticky {
-  padding-top: 30px;
-} */
 
 /* When the screen is less than 600 pixels
    wide, hide all links, except for the
