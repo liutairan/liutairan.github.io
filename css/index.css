@@ -90,5 +90,11 @@ body {
   padding-right: 25px;
   }
 
+}
 
+@media screen and (max-width: 1200px) {
+  /* Make all right containers behave like the left ones */
+  .right {
+  left: 0%;
+  }
 }
