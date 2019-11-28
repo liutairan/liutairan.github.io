@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Laplace Transform</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script>
+  MathJax = {
+    tex: {
+      tags: 'ams'  // should be 'ams', 'none', or 'all'
+    }
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+</head>
+<body>
+<p>
+  Laplace Transform Table
+</p>
+<p>
+  \begin{array}{c|l}
+  \hline
+  F(s) & f(t) \\ \hline
+  1    & \delta(t) \quad \text{unit impulse at } t=0 \\ \hline
+  \frac{1}{s}   & 1 \text{ or } u(t) \quad \text{unit step starting at } t=0 \\ \hline
+  \frac{1}{s^2}   & t \text{ or } t \cdot u(t) \quad \text{ramp function} \\ \hline
+  \end{array}
+</p>
+</body>
+</html>
