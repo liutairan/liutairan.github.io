@@ -1,47 +1,58 @@
-* {
-  box-sizing: border-box;
+h3 {
+  color: white;
 }
 
-body {
-  background-color: #FFFFFF;
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 75%;
+  padding: 10px 10px;
+  max-width: 800px;
 }
 
-/* Container around content */
+/* Remove extra left and right margins, due to padding */
+.row {margin: 0 20px;}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive columns */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+.card {
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.5);
+padding: 16px;
+transition: 0.3s;
+border-radius: 5px;
+background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.card:hover {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+img {
+border-radius: 5px 5px 0 0;
+}
+
 .container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: white;
-  width: 100%;
-  /* max-width: 600px; */
-}
-
-.container p {
-  color: black;
-}
-
-.container span {
-  color: white;
-}
-
-.container h3 {
-  color: white;
-  background-color: orange;
-}
-
-.container a {
-  color: black;
-}
-
-.container ul {
-  color: black;
-}
-
-.container img {
-  display: block;
-  max-width:600px;
-  max-height:480px;
-  width: 100%;
-  height: auto;
+padding: 2px 16px;
 }
 
 .container table {
@@ -55,35 +66,4 @@ body {
 
 .container tr {
   color: black;
-}
-
-/* Place the container to the left */
-.left {
-  left: 0;
-}
-
-/* Place the container to the right */
-.right {
-  left: 100%;
-}
-
-/* The actual content */
-.content {
-  border: 2px solid #333333;
-  padding: 20px 30px;
-  background-color: white;
-  position: relative;
-  border-radius: 6px;
-}
-
-/* Media queries - Responsive timeline on screens less than 600px wide */
-@media screen and (max-width: 600px) {
-  /* Full-width containers */
-  .container {
-  width: 100%;
-  padding-left: 25px;
-  padding-right: 25px;
-  }
-
-
 }
