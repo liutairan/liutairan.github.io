@@ -1,0 +1,182 @@
+<style>
+  /* .container div {
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+}
+
+.one { background: red; }
+.two { background: orange; }
+.three { background: yellow; }
+.four { background: green; }
+.five { background: blue; }
+
+.cols {
+    -moz-column-count:2;
+    -moz-column-gap: 3%;
+    -moz-column-width: 30%;
+    -webkit-column-count:1;
+    -webkit-column-gap: 3%;
+    -webkit-column-width: 30%;
+    column-count: 2;
+    column-gap: 3%;
+    column-width: 30%;
+}
+.box {
+    margin-bottom: 20px;
+}
+.box.one {
+    height: 200px;
+    background-color: #d77575;
+}
+.box.two {
+    height: 300px;
+    background-color: #dcbc4c;
+}
+.box.three {
+    background-color: #a3ca3b;
+    height: 400px;
+}
+.box.four {
+    background-color: #3daee3;
+    height: 500px;
+}
+.box.five {
+    background-color: #bb8ed8;
+    height: 600px;
+}
+.box.six {
+    background-color: #baafb1;
+    height: 200px;
+}
+
+@media screen and (max-width: 531px) {
+    .col { display: flex; flex-flow: column; }
+    .box.five { order: 1; }
+    .box.four { order: 2;  }
+    .box.three { order: 3; }
+    .box.two { order: 4; }
+    .box.one { order: 5 }
+    .cols {
+        -moz-column-count:1;
+        -moz-column-gap: 3%;
+        -moz-column-width: 30%;
+        -webkit-column-count:1;
+        -webkit-column-gap: 3%;
+        -webkit-column-width: 30%;
+        column-count: 1;
+        column-gap: 3%;
+        column-width: 30%;
+    }
+}
+.content {
+  border: 2px solid #333333;
+  padding: 20px 30px;
+  background-color: white;
+  position: relative;
+  border-radius: 6px;
+} */
+
+.container {
+  display: flex;
+  flex-flow: column wrap;
+  align-content: space-between;
+  /* Your container needs a fixed height, and it
+   * needs to be taller than your tallest column. */
+  height: 665px;
+
+  /* Optional */
+  background-color: #f7f7f7;
+  border-radius: 3px;
+  padding: 20px;
+  width: 60%;
+  margin: 40px auto;
+  counter-reset: items;
+}
+
+.item {
+  width: 32%;
+  /* Optional */
+  position: relative;
+  margin-bottom: 2%;
+  border-radius: 3px;
+  background-color: #a1cbfa;
+  border: 1px solid #4290e2;
+  box-shadow: 0 2px 2px rgba(0,90,250,0.05),
+    0 4px 4px rgba(0,90,250,0.05),
+    0 8px 8px rgba(0,90,250,0.05),
+    0 16px 16px rgba(0,90,250,0.05);
+  color: #fff;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.item::before {
+  counter-increment: items;
+  content: counter(items);
+}
+
+/* Re-order items into 3 rows */
+/* .item:nth-child(3n+1) { order: 1; }
+.item:nth-child(3n+2) { order: 2; }
+.item:nth-child(3n)   { order: 3; } */
+.item:nth-child(1) { order: 1; }
+.item:nth-child(2) { order: 1; }
+.item:nth-child(3) { order: 1; }
+.item:nth-child(4) { order: 1; }
+.item:nth-child(5) { order: 2; }
+.item:nth-child(6) { order: 3; }
+.item:nth-child(7) { order: 3; }
+.item:nth-child(8) { order: 3; }
+.item:nth-child(9) { order: 3; }
+.item:nth-child(10) { order: 3; }
+
+/* Force new columns */
+.container::before,
+.container::after {
+  content: "";
+  flex-basis: 100%;
+  width: 0;
+  order: 2;
+}
+
+body { font-family: sans-serif; }
+h3 { text-align: center; }
+</style>>
+
+<!-- <div class="container">
+    <div class="one">I'm first</div>
+    <div class="two">I'm second</div>
+    <div class="three">I'm third</div>
+    <div class="four">I'm fourth</div>
+    <div class="five">I'm fifth</div>
+</div> -->
+
+<!-- <div id="container" class="cols">
+    <div class="box one"></div>
+    <div class="box two"></div>
+    <div class="box one"></div>
+    <div class="box three"></div>
+    <div class="box two"></div>
+    <div class="box five"></div>
+    <div class="box one"></div>
+    <div class="box two"></div>
+    <div class="box six"></div>
+    <div class="box three"></div>
+    <div class="box two"></div>
+</div> -->
+
+<div class="container">
+  <div class="item" style="height: 140px"></div>
+  <div class="item" style="height: 190px"></div>
+  <div class="item" style="height: 170px"></div>
+  <div class="item" style="height: 120px"></div>
+  <div class="item" style="height: 160px"></div>
+  <div class="item" style="height: 180px"></div>
+  <div class="item" style="height: 140px"></div>
+  <div class="item" style="height: 150px"></div>
+  <div class="item" style="height: 170px"></div>
+  <div class="item" style="height: 170px"></div>
+</div>
+
+<h3><a href="https://tobiasahlin.com/blog/masonry-with-css/">Read the blog post</a></h3>
