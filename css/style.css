@@ -43,6 +43,13 @@
   /* text-align: center; */
 }
 
+/* @media screen and (min-width: 601px) {
+  .topnav {
+    display:flex;                 /*Center NavBar*/
+    justify-content:center;       /*Center NavBar*/
+  }
+} */
+
 /* When the screen is less than 600 pixels
    wide, hide all links, except for the
    first one ("Home"). Show the link that
