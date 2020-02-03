@@ -111,7 +111,7 @@
   }
 }
 
-@media screen and (max-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+@media screen and (max-device-width: 390px) and (-webkit-min-device-pixel-ratio: 2) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
     float: right;
@@ -119,7 +119,7 @@
   }
 }
 
-@media screen and (max-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+@media screen and (max-device-width: 390px) and (-webkit-min-device-pixel-ratio: 2) {
   .topnav.responsive {
     position: -webkit-sticky;
     position: sticky;
