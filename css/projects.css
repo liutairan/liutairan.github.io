@@ -52,7 +52,8 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 
 img {
   border-radius: 5px 5px 0 0;
-  padding: 2px 30px 2px 30px;
+  /* margin-left: auto;
+  margin-right: auto; */
 }
 
 .container {
@@ -69,13 +70,30 @@ padding: 2px 16px;
 }
 
 @media screen and ( max-width: 600px ) {
-  img.responsive { width: 80%; }
+  img.responsive {
+    width: 80%;
+    padding: 2px 30px 2px 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   }
 }
 @media screen and ( min-width:601px ) and ( max-width: 800px ) {
-  img.responsive { width: 90%; }
+  img.responsive {
+    width: 90%;
+    padding: 2px 30px 2px 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
 }
 @media screen and ( min-width: 801px ) {
-  img.responsive { width: 90%; max-width: 800px}
+  img.responsive {
+    width: 90%;
+    max-width: 800px;
+    padding: 2px 30px 2px 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
 }
 img.responsive { height: auto; }
 
