@@ -55,9 +55,20 @@ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
 img {
-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
 }
 
 .container {
 padding: 2px 16px;
 }
+
+@media screen and ( max-width: 600px ) {
+img.responsive { width: 100%; }
+}
+@media screen and ( min-width:601px ) and ( max-width: 800px ) {
+img.responsive { width: 100%; }
+}
+@media screen and ( min-width: 801px ) {
+img.responsive { width: 800px; }
+}
+img.responsive { height: auto; }
