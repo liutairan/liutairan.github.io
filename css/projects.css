@@ -10,6 +10,11 @@ h4.b {
   color: black;
 }
 
+h4.b-withpadding {
+  color: black;
+  padding: 2px 30px 2px 30px;
+}
+
 /* Float four columns side by side */
 .column {
   float: left;
