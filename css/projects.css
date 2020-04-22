@@ -6,6 +6,10 @@ h3.b {
   color: black;
 }
 
+h4.b {
+  color: black;
+}
+
 /* Float four columns side by side */
 .column {
   float: left;
