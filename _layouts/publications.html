@@ -1,0 +1,287 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+	{% include _head.html %}
+</head>
+
+<body class="page">
+	<style>
+	/*********************************
+	The list of publication items
+	*********************************/
+	/* The list of items */
+	.biblist { }
+
+	/* The item */
+	.biblist li { }
+
+	/* You can define custom styles for plstyle field here. */
+	.container {
+		padding: 2px 16px;
+	}
+
+	.container table {
+		/* border-collapse: collapse; */
+		/* width: 100%; */
+	}
+
+	.container td {
+		vertical-align: top;
+	}
+
+	.container tr {
+		color: black;
+	}
+
+	/*************************************
+	The box that contain BibTeX code
+	*************************************/
+	div.noshow { display: none; }
+	div.bibtex {
+		margin-right: 0%;
+		margin-top: 1.2em;
+		margin-bottom: 1em;
+		border: 1px solid silver;
+		padding: 0em 1em;
+		background: #ffffee;
+	}
+	div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}
+</style>
+<script type="text/javascript">
+<!--
+// Toggle Display of BibTeX
+function toggleBibtex(articleid) {
+	var bib = document.getElementById('bib_'+articleid);
+	if (bib) {
+		if(bib.className.indexOf('bibtex') != -1) {
+			bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+		}
+	} else {
+		return;
+	}
+}
+-->
+</script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+<div class="image-wrap">
+	<img src=
+	{% if page.image.feature contains 'http://' %}
+	"{{ page.image.feature }}"
+	{% elsif page.image.feature contains 'https://' %}
+	"{{ page.image.feature }}"
+	{% else %}
+	"{{ site.url }}/images/{{ page.image.feature }}"
+	{% endif %}
+	alt="{{ page.title }} feature image">
+	{% if page.image.credit %}
+	<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+	{% endif %}
+</div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+	<div class="article-author-side">
+		{% include _author-bio.html %}
+	</div>
+	<article>
+		<h1>{{ page.title }}</h1>
+		<div class="article-wrap">
+			{{ content }}
+			<em>If you don't have access to the following papers, please send me an email.</em>
+
+			<h4 style="margin-bottom:0px;padding-top:10px;">Refereed Journal Articles</h4>
+
+			<div class="container">
+				<table>
+					<tr>
+						<td>[7]</td>
+						<td>&nbsp; &nbsp;</td>
+						<td>Tairan Liu and Marcio de Queiroz.
+							Distance + angle-based control of 2-D rigid formations.
+							<cite>IEEE Transactions on Cybernetics</cite>.
+							DOI: 10.1109/TCYB.2020.2973592, in press.
+							<br>
+							<a href="" target="_blank">[Link]</a>
+						</td>
+					</tr>
+					<tr>
+						<td>[6]</td>
+						<td>&nbsp; &nbsp;</td>
+						<td>Tairan Liu, Victor Fernandez-Kim, and Marcio de Queiroz.
+							Switching formation shape control with distance + area/angle feedback.
+							<cite>Systems and Control Letters</cite>,
+							135:104598, 2020.
+							<br>
+							<a href="" target="_blank">[Link]</a>
+						</td>
+					</tr>
+					<tr>
+						<td>[5]</td>
+						<td>&nbsp; &nbsp;</td>
+						<td>Milad Khaledyan, Tairan
+							Liu, Victor Fernandez-Kim, and Marcio de Queiroz.
+							Flocking and target interception control for formations of nonholonomic kinematic agents.
+							<cite>IEEE Transactions on Control Systems Technology</cite>.
+							DOI: 10.1109/TCST.2019.2914994, in press.
+							<br>
+							<a href="" target="_blank">[Link]</a>
+						</td>
+					</tr>
+					<tr>
+						<td>[4]</td>
+						<td>&nbsp; &nbsp;</td>
+						<td>Tairan
+							Liu, Marcio de&nbsp;Queiroz, Pengpeng Zhang, and Milad Khaledyan.
+							Further results on the distance and area control of planar formations.
+							<cite>International Journal of Control</cite>.
+							DOI: 10.1080/00207179.2019.1616824, in press.
+							<br>
+							<a href="" target="_blank">[Link]</a>
+						</td>
+					</tr>
+					<tr>
+						<td>[3]</td>
+						<td>&nbsp; &nbsp;</td>
+						<td>Pengpeng Zhang, Marcio de Queiroz, Milad Khaledyan, and Tairan Liu.
+							Control of directed formations using interconnected systems stability.
+							<cite>Journal of Dynamic Systems, Measurement, and Control</cite>,
+							141(4):041003, 2019.
+							<br>
+							<a href="" target="_blank">[Link]</a>
+						</td>
+					</tr>
+					<tr>
+						<td>[2]</td>
+						<td>&nbsp; &nbsp;</td>
+						<td>Limeng Pu, Misagh Naderi, Tairan Liu, Hsiao-Chun Wu, Supratik Mukhopadhyay, and Michal Brylinski.
+							eToxPred: a machine learning-based approach to estimate the toxicity of drug candidates.
+							<cite>BMC Pharmacology and Toxicology</cite>, 20(1):2, 2019.
+							<br>
+							<a href="" target="_blank">[Link]</a>
+						</td>
+					</tr>
+					<tr>
+						<td>[1]</td>
+						<td>&nbsp; &nbsp;</td>
+						<td>Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylinski.
+							Break down in order to build up: Decomposing small molecules for fragment-based drug design with eMolFrag.
+							<cite>Journal of Chemical Information and Modeling</cite>, 57(4):627&#x2013;631, 2017.
+							<br>
+							<a href="" target="_blank">[Link]</a>
+						</td>
+					</tr>
+				</table>
+			</div>
+
+			<h4 style="margin-bottom:0px;padding-top:10px;">Conference Proceedings</h4>
+
+			<div class="container">
+        <table>
+          <tr>
+            <td>[2]</td>
+            <td>&nbsp; &nbsp;</td>
+            <td>Tairan Liu, Marcio de Queiroz, and Farid Sahebsara.
+                Distance-based planar formation control using orthogonal variables.
+                In <cite>2020 4th IEEE Conference on Control Technology and Applications (CCTA)</cite>, Montréal, Canada, Aug. 2020.
+                To appear.
+            </td>
+          </tr>
+          <tr>
+            <td>[1]</td>
+            <td>&nbsp; &nbsp;</td>
+            <td>Tairan Liu, Marcio de Queiroz, Pengpeng Zhang, and Milad Khaledyan.
+                Directed formation control of n planar agents with distance and area constraints.
+                In <cite>2019 American Control Conference (ACC)</cite>, pp. 1824-1829, Philadelphia, PA, Jul. 2019.
+            </td>
+          </tr>
+        </table>
+      </div>
+
+			<h4 style="margin-bottom:0px;padding-top:10px;">Manuscripts in Submission</h4>
+
+			<div class="container">
+        <table>
+          <tr>
+            <td>[1]</td>
+            <td>&nbsp; &nbsp;</td>
+            <td>Tairan Liu and Marcio de Queiroz.
+                An orthogonal basis approach to formation control.
+                <cite>Automatica</cite>.
+                Under review.
+            </td>
+          </tr>
+        </table>
+      </div>
+
+			<h4 style="margin-bottom:0px;padding-top:10px;">Conference Posters, Presentations, and Talks</h4>
+
+			<div class="container">
+        <table>
+          <tr>
+            <td>[2]</td>
+            <td>&nbsp; &nbsp;</td>
+            <td>Tairan Liu.
+              <a href="https://www.lsu.edu/eng/mie/graduate/conference/2019miegsrc.php">Directed formation control of planar agents with distance and area constraints</a>.
+              In <cite>2019 MIE Graduate Student Conference</cite>, LSU, Baton Rouge, LA, Apr 2019.
+            </td>
+          </tr>
+          <tr>
+            <td>[1]</td>
+            <td>&nbsp; &nbsp;</td>
+            <td>Tairan
+              Liu, Misagh Naderi, Supratik Mukhopadhyay, and Michal Brylinski.
+              <a href="https://www.researchgate.net/publication/328292932_Decomposing_Small_Molecules_for_Fragment-Based_Drug_Design_with_eMolFrag">Decomposing small molecules for fragment-based drug design with eMolfrag</a>.
+              In <cite>SCALA 2018 - Scientific Computing Around Louisiana</cite>, LSU, Baton Rouge, LA, Feb 2018.
+            </td>
+          </tr>
+        </table>
+      </div>
+
+			<h4 style="margin-bottom:0px;padding-top:10px;">Ph.D. Dissertation</h4>
+
+			<div class="container">
+        <table>
+          <tr>
+            <td></td>
+            <td>&nbsp; &nbsp;</td>
+            <td>Tairan Liu.
+                Distance-Based Formation Control: Theory, Applications, and Issues.
+                Louisiana State University. Doctoral Dissertations. 5179. May 2020.
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>&nbsp; &nbsp;</td>
+            <td><em>(My dissertation is currently under embargo. Most of the chapters come from my published papers. Please refer to them instead.)</em>
+            </td>
+          </tr>
+        </table>
+      </div>
+
+
+
+
+		</div><!-- /.article-wrap -->
+		{% if site.disqus_shortname and page.comments %}
+		<section id="disqus_thread"></section><!-- /#disqus_thread -->
+		{% endif %}
+	</article>
+</div><!-- /#index -->
+<div class="footer-wrap">
+	<footer>
+		{% include _footer.html %}
+	</footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}
+
+</body>
+</html>

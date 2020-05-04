@@ -1,0 +1,68 @@
+I"­<h3 id="molecule-synthesis">Molecule Synthesis</h3>
+
+<ul>
+  <li><a href="https://github.com/liutairan/eMolFrag"><strong>eMolFrag</strong></a><br />
+eMolFrag is a molecular fragmentation tool based on BRICS algorithm written in Python.
+It works with eSynth to generate new molecules and discover new drugs.</li>
+</ul>
+
+<h3 id="flight-control">Flight Control</h3>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/liutairan/AutonomousFlight"><strong>Autonomous Flight</strong></a><br />
+This is the firmware of the AutonomousFlight (ATFL) project. It is written in C. It can be flashed to STM32 F3 flight control boards. Currently, only Serious Pro Racing F3 boards are tested with this firmware.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/liutairan/AutonomousFlight-Configurator"><strong>Autonomous Flight Configurator</strong></a><br />
+This is the configurator for the ATFL firmware. It is written in Python. It can be used to calibrate sensors, configure ports/connections, monitor sensors and motors, etc.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/liutairan/QTGCS"><strong>Ground Control Station</strong></a><br />
+This GUI application is used to monitor and manage the drones for group operation. It is written in C++ using QT Creator for GUI design. It can generate waypoints and upload to drones for autonomous flight.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/liutairan/QTGCS_Configurator"><strong>Ground Control Station Configurator</strong></a><br />
+This GUI application configures the required configurations for the ground control station.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/liutairan/QTGCS_MapManager"><strong>Ground Control Station Map Manager</strong></a><br />
+This GUI application manages local map files. It is still under development.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/liutairan/Joysticks"><strong>Drone Manual Control Application (iPhone)</strong></a><br />
+This application is written in Swift for iPhones. It can be used to control a single drone when they are connected in the same network.</p>
+  </li>
+</ul>
+
+<h3 id="image-processing">Image Processing</h3>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/liutairan/NDVI-Tools"><strong>NDVI Tools</strong></a><br />
+This GUI application processes Near-Infrared aerial images and generates NDVI-G images with all the geotags copied.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/liutairan/Aerial-Image-Tools"><strong>Aerial Image Tools</strong></a><br /></p>
+  </li>
+</ul>
+
+<h3 id="code-for-fun--simple-tools--memo">Code for Fun / Simple Tools / Memo</h3>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/liutairan/LSU-Dissertation-LaTeX-Template"><strong>LSU Thesis/Dissertation LaTeX Template</strong></a><br />
+LaTeX template and sample. Working well for Spring 2020.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/liutairan/Librarian"><strong>Librarian</strong></a><br />
+Reference management software. It is still under development.</p>
+  </li>
+  <li>
+    <p><a href="https://liutairan.github.io/code/"><strong>Zigbee Tools</strong></a><br /></p>
+  </li>
+  <li>
+    <p><a href="https://liutairan.github.io/code/"><strong>NodeMCU Code Collection</strong></a><br /></p>
+  </li>
+</ul>
+:ET
