@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
   feature: trees.jpg -->
 ---
 
-I am a PhD candidate majoring in Mechanical Engineering. I work at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a>, which is a research group of <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a>, <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. I am going to graduate in May 2020. Currently, I am actively seeking postdoc position.
+I am a PhD candidate majoring in Mechanical Engineering. I work at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a>, which is a research group of <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a>, <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. I am going to graduate in May 2020. Currently, I am actively seeking a postdoc position.
 
 <br />
 My dissertation is titled “Distance-Based Formation Control: Theory, Applications, and Issues” under
