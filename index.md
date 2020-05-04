@@ -1,6 +1,6 @@
 ---
 layout: home3
-title: Hi, I am Tairan Liu
+title: Hi, I am Tairan Liu.
 description: ""
 tags: [Jekyll, theme, responsive, blog, template]
 <!-- image:
