@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
   feature: trees.jpg -->
 ---
 
-I am a PhD candidate majoring in Mechanical Engineering. I work at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a>, which is a research group of <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a>, <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. I am going to graduate in May 2020. Currently, I am seeking a postdoc position.
+I obtained my PhD degree in Mechanical Engineering from <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. I work at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a>, which is a research group of <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a>, <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. Currently, I am seeking a postdoc position.
 
 <br />
 My dissertation is titled “Distance-Based Formation Control: Theory, Applications, and Issues” under
@@ -22,3 +22,5 @@ Previously, I got my Bachelor degree from <a href="http://en.ustc.edu.cn/" targe
 
 <br />
 My research interests include <em>Multi-Agent Systems</em>, <em>Cyber-Physical Systems</em>, <em>Large-Scale Networked Systems</em>, <em>Cooperative Control</em>, <em>Distributed Systems/Algorithm</em>, <em>Lyapunov-Based Nonlinear Control</em>, and <em>Robotics (Aerial/Ground/Underwater)</em>.
+
+![I'm a relative reference to a repository file](../../Pics/index/scoreboard.png)
