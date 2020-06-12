@@ -15,6 +15,7 @@ comments: false
 July 2016 - May 2020<br>
 Developed new formation control methods, provided mathematical proofs.
 Conducted numerical and experimental validation.
+![Formation Simulation](../Pics/formation_control/Angle-Directed-Form.gif)
 
 * [**Aerial Robotic Network for Agricultural Applications**](https://liutairan.github.io/projects/agriculture_robotic/)<br>
 July 2016 - October 2019<br>
