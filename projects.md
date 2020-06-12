@@ -34,6 +34,7 @@ Developed open-source software which can decompose large molecules to small bio-
 February 2015 - June 2015<br>
 Developed an application to process aerial images.
 Optimized the software for better processing speed.
+![NDVI](../Pics/agriculture_aerial_image/NDVI-G.jpg)
 
 ### @ University of Science and Technology of China
 
