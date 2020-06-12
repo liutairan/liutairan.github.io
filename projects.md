@@ -22,11 +22,12 @@ Designed and built a quadrotor fleet from scratch.
 Developed autonomous flight control firmware on MCU and flight control/monitor applications on PC.
 Developed distributed control network for quadrotors.
 (Funded by the LSU Economic Development Assistantship (EDA) program.)
+![Drone](../Pics/agriculture_robotic/DSC_3056.jpg)
 
 * [**Computational Molecule Synthesis**](https://liutairan.github.io/projects/computational_molecule_synthesis/)<br>
 October 2015 - May 2016<br>
 Developed open-source software which can decompose large molecules to small bio-active fragments, then use fragments to generate target molecules or new molecules for drug design.
-![Molecule Synthesis](../../Pics/computational_molecule_synthesis/Abstract.png)
+![Molecule Synthesis](../Pics/computational_molecule_synthesis/Abstract.png)
 
 * [**Multi-rotor Copter in Agriculture**](https://liutairan.github.io/projects/multirotor_agriculture/)<br>
 February 2015 - June 2015<br>
