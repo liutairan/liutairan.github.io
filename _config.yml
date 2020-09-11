@@ -39,7 +39,7 @@ links:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    US/Central
+timezone:    US/Eastern
 future:      true
 #pygments:    true
 highlighter: rouge
