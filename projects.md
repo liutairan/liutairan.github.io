@@ -12,6 +12,9 @@ comments: false
 * [**Multi-Agent System Coverage Control with Heterogeneous Agents**]()<br>
 September 2020 - Present<br>
 
+* [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br>
+September 2020 - Present<br>
+
 
 ### @ Louisiana State University
 
