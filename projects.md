@@ -9,11 +9,14 @@ comments: false
 
 ### @ University of Georgia     
 
-* [**Multi-Agent System Coverage Control with Heterogeneous Agents**]()<br>
+* [**To be unveiled**]()<br>
 September 2020 - Present<br>
 
-* [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br>
-September 2020 - Present<br>
+<!-- * [**Multi-Agent System Coverage Control with Heterogeneous Agents**]()<br> -->
+<!-- September 2020 - Present<br> -->
+
+<!-- * [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br> -->
+<!-- September 2020 - Present<br> -->
 
 
 ### @ Louisiana State University
