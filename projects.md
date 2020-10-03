@@ -9,7 +9,8 @@ comments: false
 
 ### @ University of Georgia     
 
-* [**To be unveiled.**]()<br>
+* [**Multi-Agent System Coverage Control with Heterogeneous Agents**]()<br>
+September 2020 - Present<br>
 
 
 ### @ Louisiana State University
