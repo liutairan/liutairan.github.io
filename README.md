@@ -16,3 +16,9 @@ bundle exec jekyll serve --watch --port 4000
 ```
 127.0.0.1:4000
 ```
+
+## To update
+```
+bundle
+bundle update
+```
