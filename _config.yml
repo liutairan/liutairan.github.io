@@ -1,5 +1,5 @@
 title:            Tairan Liu's Homepage
-description:      Welcome to my site.
+description:      Welcome to my personal webpage.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              //liutairan.github.io
 #http://localhost:4000
@@ -10,7 +10,7 @@ disqus_shortname: liutairan
 owner:
   name:           Tairan Liu
   avatar:         photo.jpg
-  bio:            PhD, Mechanical Engineering. Postdoc at University of Georgia. Currently, I live in Athens, Georgia, USA. (EDT, UTC-4)
+  bio:            PhD, Mechanical Engineering. Postdoc at the University of Georgia. Currently, I live in Athens, Georgia, USA. (EST, UTC-5)
   email:          liutairan2012@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   researchgate: Tairan_Liu2
