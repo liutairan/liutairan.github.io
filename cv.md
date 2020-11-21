@@ -57,7 +57,15 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 
 ### Publications   
 
-Please refer to the [Publications](https://liutairan.github.io/publications/) page.
+Please refer to the [Publications](https://liutairan.github.io/publications/) page for the full list.
+
+#### Selected Publications
+
+* Control and Robotics   
+Appear soon.
+
+* Bioinformatics   
+Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylinski. Break down in order to build up: Decomposing small molecules for fragment-based drug design with eMolFrag. Journal of Chemical Information and Modeling, 57(4):627–631, 2017.
 
 ***
 
