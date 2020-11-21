@@ -35,18 +35,21 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 Please refer to the [Projects](https://liutairan.github.io/projects/) page for details.
 
-#### Louisiana State University // Research
+#### The University of Georgia // Postdoc // Research
+* To be unveiled.
+
+#### Louisiana State University // PhD // Research
 * Multi-Agent System Formation Control
 * Aerial Robotic Network for Agricultural Applications
 * Computational Molecule Synthesis
 * Multirotor Copter Applications in Agriculture
 
-#### Louisiana State University // Teaching
+#### Louisiana State University // PhD // Teaching
 * Fundamentals of Instrumentation and Measurement (ME 3603)
 * Autonomous Vehicles (ENGR 4200)
 * Machine Design Lab (ME 4201)
 
-#### University of Science and Technology of China // Research
+#### University of Science and Technology of China // Undergraduate // Research
 * Bionic Four-Tail Fin UUV (Mimic Dragonfly)
 * Bionic Long Undulatory Fin UUV (Mimic Black Ghost Knifefish)
 * Bionic Double-Tail Fin UUV
