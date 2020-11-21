@@ -5,9 +5,17 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+<style>
+  .bottom-three {
+     margin-bottom: 1.5cm;
+   }
+  .bottom-small {
+     margin-bottom: 1cm;
+   }
+</style>
 </head>
 
-<body class="post">
+<body class="page">
 
 {% include _browser-upgrade.html %}
 
@@ -35,14 +43,15 @@
     {% include _author-bio.html %}
   </div>
   <article>
-    <div class="headline-wrap">
+    <h1>{{ page.title }}</h1>
+    <!-- <div class="headline-wrap">
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
       {% else %}
         <h1><a href="{{ site.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
       {% endif %}
-    </div><!--/ .headline-wrap -->
-    <div class="article-wrap">
+    </div><!--/ .headline-wrap --> -->
+    <!-- <div class="article-wrap"> -->
       {{ content }}
 
       <hr />
@@ -53,14 +62,13 @@
           {% include _author-bio.html %}
         </div>
       </footer>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
+      <!-- <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script> -->
     </div><!-- /.article-wrap -->
     {% if site.disqus_shortname and page.comments %}
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
   </article>
-</div><!-- /#main -->
+</div><!-- /#project-page -->
 
 <div class="footer-wrap">
   <footer>
