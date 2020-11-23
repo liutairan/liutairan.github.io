@@ -7,7 +7,7 @@ modified: 06-11-2020
 comments: false
 ---
 
-### @ The University of Georgia     
+### @ University of Georgia     
 
 * [**To be unveiled**]()<br>
 September 2020 - Present<br>
