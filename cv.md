@@ -35,7 +35,7 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 Please refer to the [Projects](https://liutairan.github.io/projects/) page for details.
 
-#### The University of Georgia // Postdoc // Research
+#### University of Georgia // Postdoc // Research
 * To be unveiled.
 
 #### Louisiana State University // PhD // Research
