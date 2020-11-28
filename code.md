@@ -45,7 +45,7 @@ This GUI application processes Near-Infrared aerial images and generates NDVI-G 
 ### Code for Fun / Simple Tools / Memo
 
 * [**LSU Thesis/Dissertation LaTeX Template**](https://github.com/liutairan/LSU-Dissertation-LaTeX-Template)<br>
-LaTeX template and sample. Working well for Spring 2020.
+LaTeX template and sample. Working well for Spring and Fall semesters in 2020.
 
 * [**Librarian**](https://github.com/liutairan/Librarian)<br>
 Reference management software. It is still under development.
