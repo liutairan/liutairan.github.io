@@ -107,7 +107,7 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 ### Skills
 
 #### Hardware
-Arduino, Raspberry Pi, STM32 FC, NodeMCU, XBee, etc.
+Arduino, Raspberry Pi, STM32 FC, NodeMCU, XBee, 3D Printer, etc.
 
 #### Software
 XCTU, QT Creator, TeXstudio, Inkscape, AutoCAD, FreeCAD, Blender, Arduino IDE, OpenShot Video Editor, etc.
