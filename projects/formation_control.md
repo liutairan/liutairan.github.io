@@ -41,3 +41,6 @@ I would like to express my special thanks to my colleague Victor Fernandez-Kim, 
 I would like to express my special thanks to Robotarium @ Georgia Tech for their help in running the experiments.
 
 <iframe class="youtube-player" type="text/html" width="360" height="300" src="https://www.youtube.com/embed/yJQnG5hxHcc" frameborder="0" allowfullscreen></iframe>
+
+
+### Relevant Publications
