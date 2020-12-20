@@ -18,3 +18,5 @@ Although the resulting fragments can be paired with a variety of virtual molecul
 ![I'm a relative reference to a repository file](../../Pics/computational_molecule_synthesis/Abstract.png)
 
 Source code can be found at: [eMolFrag](https://github.com/liutairan/eMolFrag), [eSynth](https://github.com/liutairan/eSynth).
+
+### Relevant Publications
