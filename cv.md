@@ -40,6 +40,7 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 
 #### University of Georgia // Postdoc // Research
 * Coverage Control with Heterogeneous Robots
+* Aerial Robotic Network in Agricultural Measurements and Operations
 
 #### Louisiana State University // PhD // Research
 * Multi-Agent System Formation Control
