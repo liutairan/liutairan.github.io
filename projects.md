@@ -15,7 +15,7 @@ comments: false
 <!-- [**Modeling of Trust**]()<br> -->
 <!-- September 2020 - Present<br> -->
 
-* [**Coverage Control with Heterogeneous Robots**]()<br>   
+* [**Coverage Control with Heterogeneous Robots**]()<br>
 September 2020 - Present<br>
 
 * [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br>
