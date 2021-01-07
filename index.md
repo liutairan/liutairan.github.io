@@ -18,7 +18,7 @@ During my PhD period, I worked at <a href="https://icorelab.github.io" target="_
 Currently, I work at <a href="http://cscl.engr.uga.edu/" target="_blank">Prof. Velni's Lab</a>, School of Electrical and Computer Engineering, University of Georgia.
 
 <br />
-My research interests include <em>Multi-Agent Systems</em>, <em>Cyber-Physical Systems</em>, <em>Large-Scale Networked Systems</em>, <em>Cooperative Control</em>, <em>Distributed Systems/Algorithm</em>, <em>Lyapunov-Based Nonlinear Control</em>, and <em>Robotics (Aerial/Ground/Underwater)</em>.
+My research interests include <em>Multi-Agent/Robot Systems</em>, <em>Cyber-Physical Systems</em>, <em>Large-Scale Networked Systems</em>, <em>Cooperative Control</em>, <em>Distributed Systems/Algorithm</em>, <em>Lyapunov-Based Nonlinear Control</em>, <em>Robotics (Aerial/Ground/Underwater)</em>, and <em>Robot-Based Smart Manufacture</em>.
 
 <br />
 <!-- ![I'm a relative reference to a repository file](../../Pics/index/scoreboard.png) -->
