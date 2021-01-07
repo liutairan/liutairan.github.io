@@ -39,11 +39,11 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 Please refer to the [Projects](https://liutairan.github.io/projects/) page for details.
 
 #### University of Georgia // Postdoc // Research
-* To be unveiled.
+* Multi-Robot Coverage Control in Agricultural Applications
 
 #### Louisiana State University // PhD // Research
 * Multi-Agent System Formation Control
-* Aerial Robotic Network for Agricultural Applications
+* Aerial Robotic Network in Agricultural Applications
 * Computational Molecule Synthesis
 * Multirotor Copter Applications in Agriculture
 
