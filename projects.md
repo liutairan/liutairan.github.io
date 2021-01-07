@@ -15,8 +15,8 @@ September 2020 - Present<br>
 * [**Coverage Control with Heterogeneous Robots**]()<br> -->
 September 2020 - Present<br>
 
-<!-- * [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br> -->
-<!-- September 2020 - Present<br> -->
+* [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br>
+September 2020 - Present<br>
 
 <!-- [**Modeling of**]()<br> -->
 <!-- September 2020 - Present<br> -->
