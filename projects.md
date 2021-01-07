@@ -12,8 +12,8 @@ comments: false
 * [**To be unveiled**]()<br>
 September 2020 - Present<br>
 
-<!-- * [**Multi-Agent System Coverage Control with Heterogeneous Agents**]()<br> -->
-<!-- September 2020 - Present<br> -->
+* [**Coverage Control with Heterogeneous Robots**]()<br> -->
+September 2020 - Present<br>
 
 <!-- * [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br> -->
 <!-- September 2020 - Present<br> -->
