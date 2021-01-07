@@ -21,13 +21,15 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 ### Research Interests
 
-* Multi-Agent System
+* Multi-Agent/Robot System
 * Cyber-Physical System
 * Large-Scale Networked System
 * Cooperative Control
 * Distributed System/Algorithm
+* Multi-Agent Reinforcement Learning
 * Lyapunov-Based Nonlinear Control
 * Robotics (Aerial/Ground/Underwater)
+* Multi-Robot Smart Manufacturing   
 
 ***
 
