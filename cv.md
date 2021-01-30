@@ -149,6 +149,8 @@ Robo-Game Competition of USTC (2010)
 * Intelligent Control and Applications in Power Systems
 * Stress Analysis in Mechanical Engineering
 
+***
+
 ### Teaching Interests
 
 #### Undergraduate Level Courses
