@@ -148,3 +148,28 @@ Robo-Game Competition of USTC (2010)
 * Mathematics Methods in Engineering
 * Intelligent Control and Applications in Power Systems
 * Stress Analysis in Mechanical Engineering
+
+### Teaching Interests
+
+#### Undergraduate Level Courses
+
+* Classical Control Theory
+* Modern Control Theory
+* Intelligent Control and Applications
+* Industrial Robotics
+* Mechanics (Statics and Dynamics)
+* Mechanical Vibrations
+* Engineering System Dynamics
+* Sensors and Actuators
+* Numerical Methods
+* Mathematics Methods in Engineering
+* Autonomous Vehicles
+
+#### Graduate Level Courses
+
+* Advanced Linear Systems
+* Nonlinear Control Theory
+* Advanced Vibrations
+* Advanced Dynamics
+* Multi-copter Design and Control Practice
+* Advanced Topics in Control: Distributed Algorithms for Multi-Agent Systems
