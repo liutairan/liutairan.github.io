@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: Projects I've Done/I'm Working On
+title: Past/Current Projects
 tags: [projects]
 modified: 06-11-2020
 comments: false
