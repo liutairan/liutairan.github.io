@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /code/
-title: Some Code I've Written
+title: Code and Scripts
 tags: [code]
 modified: 05-03-2020
 comments: false
