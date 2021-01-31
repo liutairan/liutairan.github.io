@@ -156,7 +156,6 @@ Robo-Game Competition of USTC (2010)
 #### Undergraduate Level Courses
 
 ##### - Engineering Basics
-
 * Numerical Methods
 * Mathematics Methods in Engineering
 
@@ -167,13 +166,13 @@ Robo-Game Competition of USTC (2010)
 * Engineering System Dynamics
 * Instrumentation and Measurement
 
-##### Control and System
+##### - Control and System
 
 * Classical Control Theory
 * Modern Control Theory
 * Intelligent Control and Applications
 
-##### Robotics
+##### - Robotics
 
 * Introduction to Robotics
 * Industrial Robotics
@@ -182,21 +181,21 @@ Robo-Game Competition of USTC (2010)
 
 #### Graduate Level Courses
 
-##### Mechanical Engineering
+##### - Mechanical Engineering
 
 * Advanced Vibrations
 * Advanced Dynamics
 
-##### Control and Systems
+##### - Control and Systems
 
 * Advanced Linear Systems
 * Nonlinear Control Theory
 
-##### Robotics
+##### - Robotics
 
 * Multi-copter Design and Control Practice
 
-##### Advanced Topics
+##### - Advanced Topics
 
 * Introduction to Multi-Agent System Autonomy and Control
 * Advanced Topics in Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc
