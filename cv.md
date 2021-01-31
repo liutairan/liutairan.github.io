@@ -155,12 +155,12 @@ Robo-Game Competition of USTC (2010)
 
 #### Undergraduate Level Courses
 
-##### Engineering Basics
+##### - Engineering Basics
 
 * Numerical Methods
 * Mathematics Methods in Engineering
 
-##### Mechanical Engineering Basics
+##### - Mechanical Engineering Basics
 
 * Mechanics (Statics and Dynamics)
 * Mechanical Vibrations
