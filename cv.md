@@ -182,9 +182,21 @@ Robo-Game Competition of USTC (2010)
 
 #### Graduate Level Courses
 
-* Advanced Linear Systems
-* Nonlinear Control Theory
+##### Mechanical Engineering
+
 * Advanced Vibrations
 * Advanced Dynamics
+
+##### Control and Systems
+
+* Advanced Linear Systems
+* Nonlinear Control Theory
+
+##### Robotics
+
 * Multi-copter Design and Control Practice
-* Advanced Topics in Control: Distributed Algorithms for Multi-Agent Systems
+
+##### Advanced Topics
+
+* Introduction to Multi-Agent System Autonomy and Control
+* Advanced Topics in Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc
