@@ -69,10 +69,10 @@ Please refer to the [Publications](https://liutairan.github.io/publications/) pa
 #### Selected Publications
 
 * Control and Robotics   
-Tairan Liu and Marcio de Queiroz. An orthogonal basis approach to formation shape control. Automatica. Accepted.
+Tairan Liu and Marcio de Queiroz. An orthogonal basis approach to formation shape control. *Automatica*. Accepted.
 
 * Bioinformatics   
-Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylinski. Break down in order to build up: Decomposing small molecules for fragment-based drug design with eMolFrag. Journal of Chemical Information and Modeling, 57(4):627–631, 2017.
+Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylinski. Break down in order to build up: Decomposing small molecules for fragment-based drug design with eMolFrag. *Journal of Chemical Information and Modeling*, 57(4):627–631, 2017.
 
 ***
 
