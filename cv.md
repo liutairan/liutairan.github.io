@@ -155,16 +155,29 @@ Robo-Game Competition of USTC (2010)
 
 #### Undergraduate Level Courses
 
-* Classical Control Theory
-* Modern Control Theory
-* Intelligent Control and Applications
-* Industrial Robotics
+##### Engineering Basics
+
+* Numerical Methods
+* Mathematics Methods in Engineering
+
+##### Mechanical Engineering Basics
+
 * Mechanics (Statics and Dynamics)
 * Mechanical Vibrations
 * Engineering System Dynamics
+* Instrumentation and Measurement
+
+##### Control and System
+
+* Classical Control Theory
+* Modern Control Theory
+* Intelligent Control and Applications
+
+##### Robotics
+
+* Introduction to Robotics
+* Industrial Robotics
 * Sensors and Actuators
-* Numerical Methods
-* Mathematics Methods in Engineering
 * Autonomous Vehicles
 
 #### Graduate Level Courses
