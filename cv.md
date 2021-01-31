@@ -160,20 +160,17 @@ Robo-Game Competition of USTC (2010)
 * Mathematics Methods in Engineering
 
 ##### - Mechanical Engineering Basics
-
 * Mechanics (Statics and Dynamics)
 * Mechanical Vibrations
 * Engineering System Dynamics
 * Instrumentation and Measurement
 
 ##### - Control and System
-
 * Classical Control Theory
 * Modern Control Theory
 * Intelligent Control and Applications
 
 ##### - Robotics
-
 * Introduction to Robotics
 * Industrial Robotics
 * Sensors and Actuators
@@ -182,20 +179,16 @@ Robo-Game Competition of USTC (2010)
 #### Graduate Level Courses
 
 ##### - Mechanical Engineering
-
 * Advanced Vibrations
 * Advanced Dynamics
 
 ##### - Control and Systems
-
 * Advanced Linear Systems
 * Nonlinear Control Theory
 
 ##### - Robotics
-
 * Multi-copter Design and Control Practice
 
 ##### - Advanced Topics
-
 * Introduction to Multi-Agent System Autonomy and Control
 * Advanced Topics in Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc
