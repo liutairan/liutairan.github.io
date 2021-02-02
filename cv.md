@@ -108,7 +108,7 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 
 ***
 
-### Skills
+<!-- ### Skills
 
 #### Hardware
 Arduino, Raspberry Pi, STM32 FC, NodeMCU, XBee, 3D Printer, etc.
@@ -123,17 +123,17 @@ Python, MATLAB/Simulink, C, C++ (associated with GUI design with QT).
 Chinese (mother tongue) and English.
 
 #### Others
-HPC (Philip@LSU, SuperMike-II@LSU, QB2@LONI), LaTeX.
+HPC (Philip@LSU, SuperMike-II@LSU, QB2@LONI), LaTeX. -->
 
-***
+<!-- *** -->
 
-### Other Experience
+<!-- ### Other Experience
 
 Robo-Game Competition of USTC (2010)
 
-***
+*** -->
 
-### Graduate Level Courses
+<!-- ### Graduate Level Courses
 
 * Advanced Mechanical Systems Control
 * Introduction to Modern Control Theory
@@ -149,7 +149,7 @@ Robo-Game Competition of USTC (2010)
 * Intelligent Control and Applications in Power Systems
 * Stress Analysis in Mechanical Engineering
 
-***
+*** -->
 
 ### Teaching Interests
 
