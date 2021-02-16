@@ -100,6 +100,7 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 * IEEE Robotics and Automation Letters
 * IEEE Conference on Decision and Control
 * IEEE International Conference on Robotics and Automation
+* IEEE Conference on Control Technology and Applications
 
 #### Membership
 
