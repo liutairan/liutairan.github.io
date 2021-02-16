@@ -15,7 +15,7 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 ### Education   
 
 * Ph.D., Mechanical Engineering, Louisiana State University, USA, 2020
-* B.S., Theoretical and Applied Mechanics, University of Science and Technology of China, China, 2012
+* B.S., Theoretical and Applied Mechanics, University of Science and Technology of China, P.R. China, 2012
 
 ***
 
