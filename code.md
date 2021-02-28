@@ -14,11 +14,14 @@ comments: false
 eMolFrag is a molecular fragmentation tool based on BRICS algorithm written in Python.
 It works with eSynth to generate new molecules and discover new drugs.
 
-### Drone Basics
+### Drone Relevant
+
+* [**Drone Basics**](https://github.com/liutairan/)<br>
+Design, electronics, dynamics, control, etc.
 
 
-### Drone Project Documentation
-
+* [**UGA Drone Project Documentation**](https://github.com/liutairan/)<br>
+Documentation of all the configurations and explanation.
 
 ### Flight Control
 
