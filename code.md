@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /code/
-title: Code and Scripts
+title: Code, Scripts, and Documentations
 tags: [code]
 modified: 05-03-2020
 comments: false
