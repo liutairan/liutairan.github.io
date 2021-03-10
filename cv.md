@@ -98,6 +98,7 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 * Automatica
 * IEEE Transactions on Cybernetics
 * IEEE Robotics and Automation Letters
+* Mathematics
 * IEEE Conference on Decision and Control
 * IEEE International Conference on Robotics and Automation
 * IEEE Conference on Control Technology and Applications
