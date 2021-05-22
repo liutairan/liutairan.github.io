@@ -18,7 +18,7 @@ comments: false
 * [**Coverage Control with Heterogeneous Robots**]()<br>
 September 2020 - Present<br>
 
-* [**Aerial Robotic Network in Agricultural Measurements and Operations**]()<br>
+* [**Aerial Robotic Network in Agricultural Measurements and Operations**](https://liutairan.github.io/projects/agriculture_measurement/)<br>
 September 2020 - Present<br>
 
 
