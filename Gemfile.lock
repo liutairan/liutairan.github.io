@@ -96,6 +96,7 @@ DEPENDENCIES
   rouge
   tzinfo-data
   wdm (~> 0.1.1)
+  grunt (>= 1.3.0)
 
 BUNDLED WITH
    2.1.4
