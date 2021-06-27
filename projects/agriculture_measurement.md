@@ -15,6 +15,6 @@ Building an open-source drone platform for field monitoring, in which the drone 
 
 ### Our Testbed
 
-![I'm a relative reference to a repository file](../../Pics/agriculture_measurement/xxx.jpg)
+![I'm a relative reference to a repository file](../../Pics/agriculture_measurement/OntheBench3.jpg)
 
 ### Demonstration
