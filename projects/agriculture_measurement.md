@@ -8,6 +8,9 @@ comments: false
 
 ### Background
 
+![Over plants](../../Pics/agriculture_measurement/Drone-over-plants.png)
+
+![Penetrate canopy](../../Pics/agriculture_measurement/Drone-with-arm-in-bush.png)
 
 ### Scientific Progress
 
@@ -15,7 +18,7 @@ Building an open-source drone platform for field monitoring, in which the drone 
 
 ### Our Testbed
 
-![I'm a relative reference to a repository file](../../Pics/agriculture_measurement/OntheBench3.jpg)
+![On the bench](../../Pics/agriculture_measurement/OntheBench3.jpg)
 
 ![Drone Flight](../Pics/agriculture_measurement/PoleFold.png)
 
