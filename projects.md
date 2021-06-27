@@ -20,7 +20,7 @@ September 2020 - June 2021<br>
 
 * [**Aerial Robotics in Agricultural Measurements**](https://liutairan.github.io/projects/agriculture_measurement/)<br>
 September 2020 - June 2021<br>
-
+![Drone Flight](../Pics/agriculture_measurement/PoleFold.png)
 
 ### @ Louisiana State University
 
