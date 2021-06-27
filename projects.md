@@ -18,7 +18,7 @@ comments: false
 * [**Coverage Control and Path Planning with Heterogeneous Robots**]()<br>
 September 2020 - June 2021<br>
 
-* [**Aerial Robotic Network in Agricultural Measurements**](https://liutairan.github.io/projects/agriculture_measurement/)<br>
+* [**Aerial Robotics in Agricultural Measurements**](https://liutairan.github.io/projects/agriculture_measurement/)<br>
 September 2020 - June 2021<br>
 
 
