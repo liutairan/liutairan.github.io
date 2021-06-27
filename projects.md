@@ -12,14 +12,14 @@ comments: false
 <!-- * [**CPS**]()<br> -->
 <!-- January 2021 - Present<br> -->
 
-<!-- [**Modeling of Trust**]()<br> -->
-<!-- September 2020 - Present<br> -->
+<!-- [**Modeling of Trust in Human-Swarm Interactions**]()<br> -->
+<!-- January 2020 - Present<br> -->
 
-* [**Coverage Control with Heterogeneous Robots**]()<br>
-September 2020 - Present<br>
+* [**Coverage Control and Path Planning with Heterogeneous Robots**]()<br>
+September 2020 - June 2021<br>
 
-* [**Aerial Robotic Network in Agricultural Measurements and Operations**](https://liutairan.github.io/projects/agriculture_measurement/)<br>
-September 2020 - Present<br>
+* [**Aerial Robotic Network in Agricultural Measurements**](https://liutairan.github.io/projects/agriculture_measurement/)<br>
+September 2020 - June 2021<br>
 
 
 ### @ Louisiana State University
