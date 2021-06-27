@@ -17,4 +17,6 @@ Building an open-source drone platform for field monitoring, in which the drone 
 
 ![I'm a relative reference to a repository file](../../Pics/agriculture_measurement/OntheBench3.jpg)
 
+![Drone Flight](../Pics/agriculture_measurement/PoleFold.png)
+
 ### Demonstration
