@@ -26,11 +26,10 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 * Large-Scale Networked System
 * Cooperative Control
 * Distributed System/Algorithm
-* Multi-Agent Reinforcement Learning
 * Human-Robot/Swarm Interaction
 * Lyapunov-Based Nonlinear Control
-* Robotics (Aerial/Ground/Underwater)
-* Multi-Robot Smart Manufacturing   
+* Robotics (Aerial/Ground/Underwater/Manipulator)
+* Multi-Robot Smart Manufacturing/Construction   
 
 ***
 
