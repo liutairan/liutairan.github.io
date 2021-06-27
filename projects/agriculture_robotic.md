@@ -28,4 +28,4 @@ This research lies at the intersection of precision agriculture and robotics. Th
 
 ![I'm a relative reference to a repository file](../../Pics/agriculture_robotic/QTGCS_Config1.png)
 
-[<img src="../../Pics/agriculture_robotic/cellphoneapp.jpg" width="360"/>](cellphoneapp.jpg)
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/agriculture_robotic/cellphoneapp.jpg" width="360">
