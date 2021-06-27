@@ -8,9 +8,9 @@ comments: false
 
 ### Background
 
-![Over plants](../../Pics/agriculture_measurement/Drone-over-plants.png)
+[<img src="../../Pics/agriculture_measurement/Drone-over-plants.png" width="480"/>](Drone-over-plants.png)
 
-![Penetrate canopy](../../Pics/agriculture_measurement/Drone-with-arm-in-bush.png)
+[<img src="../../Pics/agriculture_measurement/Drone-with-arm-in-bush.png" width="480"/>](Drone-with-arm-in-bush.png)
 
 ### Scientific Progress
 
