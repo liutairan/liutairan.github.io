@@ -30,9 +30,12 @@ However, searching infected plants or collecting those in/under-canopy data over
 
 A feasible solution is to deploy a collaborative team composed of high-altitude-flying unmanned aerial vehicles (UAVs) and low-altitude-flying UAVs with different functionalities. Specifically, the high-altitude team is faster in flying speed, and has a better vision of the overall situation and wider view of the whole field; and the low-altitude team equipped with robot arms, which can penetrate the canopy, has better in-depth sensing capability.
 
+<br />    
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/agriculture_measurement/Drone-over-plants.png" width="480">
 Figure 1: Drones fly over the fields to collect top surface data in the traditional approaches.
+
+<br />    
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/agriculture_measurement/Drone-with-arm-in-bush.png" width="480">
 Figure 2: Drones use telescopic robot arms/structures to penetrate the canopy and collect the data in/under canopy.
