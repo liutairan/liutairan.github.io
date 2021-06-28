@@ -22,7 +22,6 @@ Currently, I work at <a href="http://cscl.engr.uga.edu/" target="_blank">Prof. V
 I am open to new opportunities, such as postdoctoral researcher, research scientist, assistant professor, or R&D engineer.
 
 <br />
-My research interests include <em>Multi-Agent/Robot Systems</em>, <em>Cyber-Physical Systems</em>, <em>Large-Scale Networked Systems</em>, <em>Cooperative Control</em>, <em>Distributed Systems/Algorithm</em>, <em>Multi-Agent Reinforcement Learning</em>, <em>Human-Robot/Swarm Interaction</em>, <em>Lyapunov-Based Nonlinear Control</em>, <em>Robotics (Aerial/Ground/Underwater)</em>, and <em>Multi-Robot Smart Manufacturing</em>.
+My research interests include <em>Multi-Agent/Robot Systems</em>, <em>Cyber-Physical Systems</em>, <em>Large-Scale Networked Systems</em>, <em>Cooperative Control</em>, <em>Distributed Systems/Algorithm</em>, <em>Human-Robot/Swarm Interaction</em>, <em>Lyapunov-Based Nonlinear Control</em>, <em>Robotics (Aerial/Ground/Underwater/Manipulator)</em>, and <em>Multi-Robot Smart Manufacturing/Construction</em>.
 
 <br />
-<!-- ![I'm a relative reference to a repository file](../../Pics/index/scoreboard.png) -->
