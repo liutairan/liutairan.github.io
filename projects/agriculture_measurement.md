@@ -8,7 +8,7 @@ comments: false
 
 ### Background
 
-Drones have been used in precision agriculture for many years. In most of the applications, drones fly over the field and collect top surface data/images. And the data/images collected will be processed later to analyse the potential issues in the field. In this project, we use drones to do something different.
+Drones have been used in precision agriculture for many years. In most of the applications, drones fly over the field and collect top surface data/images. Then, the data/images collected will be processed later to analyse the potential issues in the field. In this project, we use drones to do something different.
 
 Cotton is a significant source of fabric and has been used in the textile industry for centuries. Nowadays, cotton is still a cash crop around the globe. The United States, produced over 20 million bales of cotton in 2017, is the largest raw cotton fiber exporter in the world. In the United States, most cotton is grown in 17 southern-tiered states, with Texas and Georgia ranking the top two.
 
