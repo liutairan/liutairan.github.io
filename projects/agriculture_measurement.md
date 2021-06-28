@@ -10,23 +10,9 @@ comments: false
 
 Drones have been used in precision agriculture for many years. In most of the applications, drones fly over the field and collect top surface data/images. And the data/images collected will be processed later to analyse the potential issues in the field. In this project, we use drones to do something different.
 
-Cotton is a significant source of fabric and has been used in the textile industry for centuries. Nowadays, cotton is still a cash crop around the globe. The United States, produced over 20 million bales of cotton in 2017, is the largest raw cotton fiber exporter in the world [Service, a]. In the United States, most cotton is grown in 17 southern-tiered states, with Texas and Georgia ranking the top two [Service, a].
+Cotton is a significant source of fabric and has been used in the textile industry for centuries. Nowadays, cotton is still a cash crop around the globe. The United States, produced over 20 million bales of cotton in 2017, is the largest raw cotton fiber exporter in the world. In the United States, most cotton is grown in 17 southern-tiered states, with Texas and Georgia ranking the top two.
 
-Two types of factors can cause serious economic devastation: cotton diseases and
-environmental conditions. Cotton diseases have existed and been noticed since a long
-time ago [Newman, 2007, Kelly, 2016]. In [D. Lyda and Watkins, ], the authors classify
-the diseases as bacterial, fungal, parasitic nematode, viral, phytoplasmal, and spiro-
-plasmal. These diseases are responsible for enormous losses in cotton production and
-quality. For example, Fusarium Hardlock of cotton, which is mainly caused by fungus
-Fusarium verticillioides, severely reduced the yield in Florida and other southeastern
-states [Marois et al., 2005, Marois et al., 2006]. Cotton blue disease, a viral disease first identified in Alabama in 2017, has been subsequently found in most of the states close to it [Isakeit, ]. There are more examples in the literature, such as cotton leaf
-curl disease (CLCuD) [Nawaz et al., 2019], cotton root rot [Yang et al., 2012], pink
-bollworm infestation [Coleman et al., 1974], Seedling Disease [Kelly, 2016, Newman,
-2007]. The other factor affecting the growth of cotton plant is the adverse environ-
-mental conditions [Ritchie et al., ]. The cotton plant has indeterminate growth habit,
-and is extremely sensitive to adverse environmental conditions [Ritchie et al., ], such
-as nutrition, moisture and temperature. Any deviation from the idealized growing
-conditions could cause the decrease of yield.
+Two types of factors can cause serious economic devastation: cotton diseases and environmental conditions. Cotton diseases have existed and been noticed since a long time ago. These diseases are responsible for enormous losses in cotton production and quality. For example, Fusarium Hardlock of cotton, which is mainly caused by fungus Fusarium verticillioides, severely reduced the yield in Florida and other southeastern states. Cotton blue disease, a viral disease first identified in Alabama in 2017, has been subsequently found in most of the states close to it. There are more examples in the literature, such as cotton leaf curl disease (CLCuD), cotton root rot, pink bollworm infestation, Seedling Disease. The other factor affecting the growth of cotton plant is the adverse environmental conditions. The cotton plant has indeterminate growth habit, and is extremely sensitive to adverse environmental conditions, such as nutrition, moisture and temperature. Any deviation from the idealized growing conditions could cause the decrease of yield.
 
 For the serious economic devastation caused by these factors, successfully identi-
 fying the changes in plants and taking actions as early as possible is a crucial task.
