@@ -44,7 +44,17 @@ Building an open-source drone platform for field monitoring, in which the drone 
 ### Our Testbed
 
 ![On the bench](../../Pics/agriculture_measurement/OntheBench3.jpg)
+Figure 3: The drone platform used in this research.
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/agriculture_measurement/PoleFold.png" width="360">
+Figure 4: Drone in the air, telescopic structure folded.
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/agriculture_measurement/PoleUnfold.png" width="360">
+Figure 5: Drone in the air, telescopic structure unfolded.
+
+
+![On the bench](../../Pics/agriculture_measurement/Mission.png)
+Figure 6: Mission planner.
+
+![On the bench](../../Pics/agriculture_measurement/Monitor.png)
+Figure 7: Real-time drone status monitoring from a computer.
