@@ -12,7 +12,7 @@ Drones have been used in precision agriculture for many years. In most of the ap
 
 <br />    
 
-The plant used in this research is cotton. Cotton is a significant source of fabric and has been used in the textile industry for centuries. Nowadays, cotton is still a cash crop around the globe. The United States, produced over 20 million bales of cotton in 2017, is the largest raw cotton fiber exporter in the world. In the United States, most cotton is grown in 17 southern-tiered states, with Texas and Georgia ranking the top two.
+The plant studied in this research is cotton. Cotton is a significant source of fabric and has been used in the textile industry for centuries. Nowadays, cotton is still a cash crop around the globe. The United States, produced over 20 million bales of cotton in 2017, is the largest raw cotton fiber exporter in the world. In the United States, most cotton is grown in 17 southern-tiered states, with Texas and Georgia ranking the top two.
 
 <br />    
 
