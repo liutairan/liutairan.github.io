@@ -95,12 +95,19 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 
 #### Reviewer
 
+##### - Journal
+* Actuators
+* Applied Sciences
 * Automatica
-* IEEE Transactions on Cybernetics
 * IEEE Robotics and Automation Letters
+* IEEE Transactions on Cybernetics
+* Mathematics
+* Sensors
+
+##### - Conference
+* IEEE Conference on Control Technology and Applications
 * IEEE Conference on Decision and Control
 * IEEE International Conference on Robotics and Automation
-* IEEE Conference on Control Technology and Applications
 
 #### Membership
 
