@@ -39,14 +39,14 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 
 #### University of Georgia // Postdoc // Research
 * Modeling of Trust in Human-Swarm Interactions
-* Coverage Control with Heterogeneous Robots
+* Coverage Control and Path Planning with Heterogeneous Robots
 * Aerial Robotics in Agricultural Measurements
 
 #### Louisiana State University // PhD // Research
 * Multi-Agent System Formation Control
-* Aerial Robotic Network in Agricultural Applications
+* Aerial Robotic Network in Precision Agriculture
 * Computational Molecule Synthesis
-* Multirotor Copter Applications in Agriculture
+* Multirotor Copters in Precision Agriculture Applications
 
 #### Louisiana State University // PhD // Teaching
 * Fundamentals of Instrumentation and Measurement (ME 3603)
