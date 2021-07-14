@@ -25,7 +25,8 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 * System and Control Theory
 * Multi-Agent/Robot System
 * Cyber-Physical System
-* Complex/Large-Scale Networked System
+* Complex Networks (including communication networks and social networks)
+* Large-Scale Networked System
 * Cooperative Control
 * Distributed System/Algorithm
 * Human-Robot/Swarm Interaction
