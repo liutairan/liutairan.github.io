@@ -31,7 +31,7 @@ Developed new formation control methods, provided mathematical proofs.
 Conducted numerical and experimental validation.
 ![Formation Simulation](../Pics/formation_control/Angle-Directed-Form.gif)
 
-* [**Aerial Robotic Network for Agricultural Applications**](https://liutairan.github.io/projects/agriculture_robotic/)<br>
+* [**Aerial Robotic Network in Precision Agriculture**](https://liutairan.github.io/projects/agriculture_robotic/)<br>
 July 2016 - October 2019<br>
 Designed and built a quadrotor fleet from scratch.
 Developed autonomous flight control firmware on MCU and flight control/monitor applications on PC.
@@ -44,7 +44,7 @@ October 2015 - May 2016<br>
 Developed open-source software which can decompose large molecules to small bio-active fragments, then use fragments to generate target molecules or new molecules for drug design.
 ![Molecule Synthesis](../Pics/computational_molecule_synthesis/Abstract.png)
 
-* [**Multi-rotor Copter in Agriculture**](https://liutairan.github.io/projects/multirotor_agriculture/)<br>
+* [**Multirotor Copters in Precision Agriculture Applications**](https://liutairan.github.io/projects/multirotor_agriculture/)<br>
 February 2015 - June 2015<br>
 Developed an application to process aerial images.
 Optimized the software for better processing speed.
