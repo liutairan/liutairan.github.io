@@ -1,6 +1,6 @@
 ---
 layout: project-page
-title: Multi-rotor Copter in Agriculture
+title: Multirotor Copters in Precision Agriculture Applications
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 categories: [projects]
 comments: false

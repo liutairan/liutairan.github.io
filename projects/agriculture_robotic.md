@@ -1,6 +1,6 @@
 ---
 layout: project-page
-title: Aerial Robotic Network for Agricultural Applications
+title: Aerial Robotic Network in Precision Agriculture
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 categories: [projects]
 comments: false
