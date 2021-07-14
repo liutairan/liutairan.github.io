@@ -25,14 +25,15 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 * System and Control Theory
 * Multi-Agent/Robot System
 * Cyber-Physical System
-* Complex Networks (including communication networks and social networks)
+* Complex Networks
 * Large-Scale Networked System
 * Cooperative Control
 * Distributed System/Algorithm
 * Human-Robot/Swarm Interaction
 * Robotics (Aerial/Ground/Underwater/Manipulator)
-* Applications of Robotics (Precision Agriculture/Farm Management)
 * Multi-Robot Smart Manufacturing/Construction   
+
+*Applications or intersections of the above areas: Communication Networks, Social Networks, Precision Agriculture, Farm Management, Smart Farming, Traffic Control, Smart City, Connected Vehicles, Multi-Robot Smart Manufacturing/Construction, Multi-Robot Task Allocation,  etc.*
 
 ***
 
