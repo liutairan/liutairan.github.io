@@ -31,6 +31,7 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 * Distributed System/Algorithm
 * Human-Robot/Swarm Interaction
 * Robotics (Aerial/Ground/Underwater/Manipulator)
+* Applications of Robotics (Precision Agriculture/Farm Management)
 * Multi-Robot Smart Manufacturing/Construction   
 
 ***
