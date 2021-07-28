@@ -170,12 +170,12 @@ Robo-Game Competition of USTC (2010)
 ##### - Engineering Basics
 * Numerical Methods
 * Mathematics Methods in Engineering
+* Engineering System Dynamics
+* Instrumentation and Measurement
 
 ##### - Mechanical Engineering Basics
 * Mechanics (Statics and Dynamics)
 * Mechanical Vibrations
-* Engineering System Dynamics
-* Instrumentation and Measurement
 
 ##### - Control and System
 * Classical Control Theory
