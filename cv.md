@@ -169,7 +169,7 @@ Robo-Game Competition of USTC (2010)
 
 ##### - Engineering Basics
 * Numerical Methods
-* Mathematics Methods in Engineering
+* Mathematical Methods in Engineering
 * Engineering System Dynamics
 * Instrumentation and Measurement
 
