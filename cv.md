@@ -203,4 +203,4 @@ Robo-Game Competition of USTC (2010)
 
 ##### - Advanced Topics
 * Introduction to Multi-Agent System Autonomy and Control
-* Advanced Topics in Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc
+* Advanced Topics in Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc.
