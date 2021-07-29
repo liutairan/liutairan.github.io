@@ -7,7 +7,7 @@ tags: [Jekyll, theme, responsive, blog, template]
   feature: trees.jpg -->
 ---
 
-I received my BS degree in Theoretical and Applied Mechanics from <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, and PhD degree in Mechanical Engineering from <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>.
+I received my BS degree in Theoretical and Applied Mechanics at <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, and PhD degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>.
 
 <!-- I work at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a>, which is a research group of the <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a>, <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. -->
 
