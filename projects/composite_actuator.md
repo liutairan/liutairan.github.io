@@ -6,8 +6,8 @@ categories: [projects]
 comments: false
 ---
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/composite_actuator/n1.jpg) -->
+![I'm a relative reference to a repository file](../../Pics/composite_actuator/n1.jpg)
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/composite_actuator/n2.jpg) -->
+![I'm a relative reference to a repository file](../../Pics/composite_actuator/n2.jpg)
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/composite_actuator/n3.jpg) -->
+![I'm a relative reference to a repository file](../../Pics/composite_actuator/n3.jpg)

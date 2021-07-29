@@ -7,6 +7,6 @@ comments: false
 ---
 
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/four_tail_fin/4-3.jpg) -->
+![I'm a relative reference to a repository file](../../Pics/four_tail_fin/4-3.jpg)
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/four_tail_fin/4-4.jpg) -->
+![I'm a relative reference to a repository file](../../Pics/four_tail_fin/4-4.jpg)

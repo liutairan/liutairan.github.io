@@ -6,10 +6,10 @@ categories: [projects]
 comments: false
 ---
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/nature_knifefish.jpg) -->
+![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/nature_knifefish.jpg)
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/final_simulation011.gif) -->
+![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/final_simulation011.gif)
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/forward.gif) -->
+![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/forward.gif)
 
-<!-- ![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/exp.gif) -->
+![I'm a relative reference to a repository file](../../Pics/long_undulatory_fin/exp.gif)
