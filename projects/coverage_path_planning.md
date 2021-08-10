@@ -6,8 +6,18 @@ categories: [projects]
 comments: false
 ---
 
-### Background
+### Project goal
 
+The goal of this project was to propose new approaches and algorithms that can be used to deploy robots which don't have uniform configurations, such as dynamics, parameters, and capabilities.
+
+### My role
+
+Researcher
+
+### My contribution
+
+* Proposed new concepts and algorithms of coverage control and path planning for heterogeneous robots
+* Provided mathematical proofs and conducted numerical simulations to validate algorithms
 
 ### Scientific Progress
 
