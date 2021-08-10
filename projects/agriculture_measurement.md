@@ -8,7 +8,7 @@ comments: false
 
 ### Project goal
 
-The goal of this project was to create a robotic system that can capture information within or under the PLANT canopy such that the changes of the plants can be detected as early as possible.
+The goal of this project was to create a robotic system that can capture information within or under the plant canopy such that the changes of the plants can be detected as early as possible.
 
 ### My role
 
