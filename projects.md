@@ -30,7 +30,8 @@ September 2020 - August 2021<br>
 July 2016 - May 2020<br>
 <!-- Developed new formation control methods, provided mathematical proofs. -->
 <!-- Conducted numerical and experimental validation. -->
-![Formation Simulation](../Pics/formation_control/Angle-Directed-Form.gif)
+<!-- ![Formation Simulation](../Pics/formation_control/Angle-Directed-Form.gif) -->
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/formation_control/Angle-Directed-Form.gif" width="360">
 
 * [**Aerial Robotic Network in Precision Agriculture**](https://liutairan.github.io/projects/agriculture_robotic/)<br>
 July 2016 - October 2019<br>
@@ -38,18 +39,21 @@ July 2016 - October 2019<br>
 <!-- Developed autonomous flight control firmware on MCU and flight control/monitor applications on PC. -->
 <!-- Developed distributed control network for quadrotors. -->
 <!-- (Funded by the LSU Economic Development Assistantship (EDA) program.) -->
-![Drone](../Pics/agriculture_robotic/DSC_3056.jpg)
+<!-- ![Drone](../Pics/agriculture_robotic/DSC_3056.jpg) -->
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/agriculture_robotic/DSC_3056.jpg" width="360">
 
 * [**Computational Molecule Synthesis**](https://liutairan.github.io/projects/computational_molecule_synthesis/)<br>
 October 2015 - May 2016<br>
 <!-- Developed open-source software which can decompose large molecules to small bio-active fragments, then use fragments to generate target molecules or new molecules for drug design. -->
-![Molecule Synthesis](../Pics/computational_molecule_synthesis/Abstract.png)
+<!-- ![Molecule Synthesis](../Pics/computational_molecule_synthesis/Abstract.png) -->
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/computational_molecule_synthesis/Abstract.png" width="360">
 
 * [**Multirotor Copters in Precision Agriculture Applications**](https://liutairan.github.io/projects/multirotor_agriculture/)<br>
 February 2015 - June 2015<br>
 <!-- Developed an application to process aerial images. -->
 <!-- Optimized the software for better processing speed. -->
-![NDVI](../Pics/agriculture_aerial_image/NDVI-G.jpg)
+<!-- ![NDVI](../Pics/agriculture_aerial_image/NDVI-G.jpg) -->
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/agriculture_aerial_image/NDVI-G.jpg" width="360">
 
 ### @ University of Science and Technology of China
 
