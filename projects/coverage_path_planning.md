@@ -21,9 +21,11 @@ Researcher
 
 ### Scientific Progress
 
-So far, we have developed various coverage control and path planning algorithms to allow for coordination and cooperation among vehicles deployed in the field for data collection purposes. Particularly, two scenarios were examined as follows: (i) deploying a heterogeneous group of drones (in terms of weight, velocity, battery charge, and being equipped with sensors of different footprints) to monitor fields; and (ii) coping with the case that fields to be covered have irregular (e.g., non-convex) shapes. The tools developed so far in the project have been validated using extensive simulation models and resulted in two publications. Field testing of the algorithms are yet to be done.
+So far, we have developed various coverage control and path planning algorithms to allow for coordination and cooperation among vehicles deployed in the field for data collection purposes. Particularly, two scenarios were examined as follows: (i) deploying a heterogeneous group of drones (in terms of weight, velocity, battery charge, and being equipped with sensors of different footprints) to monitor fields; and (ii) coping with the case that fields to be covered have irregular (e.g., non-convex) shapes. The tools developed so far in the project have been validated using extensive simulation models and resulted in two publications.
 
 ### Demonstration
+
+The simulation results of the environments with irregular shapes are shown below.
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/mixed-initial.png" width="360">
 Figure 1: Initial position and partition of agents in a mixed-dimensional environment.
@@ -39,3 +41,5 @@ Figure 4: Final partition of agents in a hybrid environment.
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/hybrid-traj.png" width="360">
 Figure 5: Final position and trajectory of agents in a hybrid environment.
+
+The details of the heterogeneous agents case will be unveiled later.
