@@ -12,8 +12,8 @@ comments: false
 <!-- * [**CPS**]()<br> -->
 <!-- January 2021 - Present<br> -->
 
-<!-- [**Modeling of Trust in Human-Swarm Interactions**]()<br> -->
-<!-- January 2020 - Present<br> -->
+* [**Modeling of Trust in Human-Swarm Interactions**](https://liutairan.github.io/projects/trust_hsi/)<br>
+January 2020 - Present<br>
 
 * [**Coverage Control and Path Planning with Heterogeneous Robots**](https://liutairan.github.io/projects/coverage_path_planning/)<br>
 September 2020 - August 2021<br>
