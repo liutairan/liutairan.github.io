@@ -6,6 +6,20 @@ categories: [projects]
 comments: false
 ---
 
+### Project goal
+
+The goal of this project was to create a robotic system that can capture information within or under the PLANT canopy such that the changes of the plants can be detected as early as possible.
+
+### My role
+
+Researcher
+
+### My contribution
+
+* Built an open-source drone platform for field monitoring
+* Designed a telescopic structure for measurements under/within the plant canopy
+* Developed an open-source graphical user interface (GUI) to define tasks, generate desired flight trajectory, and monitor drone's status and real-time trajectory
+
 ### Background
 
 Drones have been used in precision agriculture for many years. In most of the applications, drones fly over the field and collect top surface data/images. Then, the data/images collected will be processed later to analyse the potential issues in the field. In this project, we use drones to do something different.
