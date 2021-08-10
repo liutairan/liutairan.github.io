@@ -36,27 +36,22 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 ***
 
-### Professional Experience
+### Research Experience
 
 Please refer to the [Projects](https://liutairan.github.io/projects/) page for details.
 
-#### University of Georgia // Postdoc // Research
+#### University of Georgia // Postdoc 
 * Modeling of Trust in Human-Swarm Interactions
 * Coverage Control and Path Planning with Heterogeneous Robots
 * Aerial Robotics in Agricultural Measurements
 
-#### Louisiana State University // PhD // Research
+#### Louisiana State University // PhD
 * Multi-Agent System Formation Control
 * Aerial Robotic Network in Precision Agriculture
 * Computational Molecule Synthesis
 * Multirotor Copters in Precision Agriculture Applications
 
-#### Louisiana State University // PhD // Teaching
-* Fundamentals of Instrumentation and Measurement (ME 3603)
-* Autonomous Vehicles (ENGR 4200)
-* Machine Design Lab (ME 4201)
-
-#### University of Science and Technology of China // Undergraduate // Research
+#### University of Science and Technology of China // Undergraduate
 * Bionic Four-Tail Fin UUV (Mimic Dragonfly)
 * Bionic Long Undulatory Fin UUV (Mimic Black Ghost Knifefish)
 * Bionic Double-Tail Fin UUV
@@ -64,6 +59,13 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 * Composite Bionic Actuators
 
 ***
+
+### Teaching Experience
+
+#### Louisiana State University // PhD
+* Fundamentals of Instrumentation and Measurement (ME 3603)
+* Autonomous Vehicles (ENGR 4200)
+* Machine Design Lab (ME 4201)
 
 ### Publications   
 
@@ -82,6 +84,7 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 ### Awards and Honors
 
 * Outstanding Graduate Research Assistant, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2019
+* Economic Development Assistantship Award, Louisiana State University, Baton Rouge, LA, USA, 2016-2019
 * LSU-ME Enrichment Award, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2014
 
 ***
