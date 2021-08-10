@@ -8,8 +8,10 @@ comments: false
 
 ### Project goal
 The goal of this project was to explore new approaches of propulsion for underwater vehicles.
-###	My role:
+
+###	My role
 Undergraduate Researcher
+
 ### My contribution
 
 * Designed motion pattern for the bionic actuators which mimic the movement of pectoral fins
