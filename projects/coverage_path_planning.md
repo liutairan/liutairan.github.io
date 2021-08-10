@@ -25,7 +25,7 @@ So far, we have developed various coverage control and path planning algorithms 
 
 ### Demonstration
 
-The simulation results of the environments with irregular shapes are shown below.
+The simulation results of the environments with irregular shapes are shown below. The details of the heterogeneous agents case will be unveiled later.
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/mixed-initial.png" width="360">
 Figure 1: Initial position and partition of agents in a mixed-dimensional environment.
@@ -41,5 +41,3 @@ Figure 4: Final partition of agents in a hybrid environment.
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/hybrid-traj.png" width="360">
 Figure 5: Final position and trajectory of agents in a hybrid environment.
-
-The details of the heterogeneous agents case will be unveiled later.
