@@ -6,9 +6,18 @@ categories: [projects]
 comments: false
 ---
 
-### Introduction
+### Project goal
+The goal of this project was to create customized software that can process aerial images and data generated from on-board cameras and sensors.
 
-A GUI application to process Near-Infrared aerial images was developed. It can generate NDVI-G images with all the geotags copied. It was optimized for better processing speed.
+### My role
+Research Assistant
+
+### My contribution
+
+* Developed scripts and graphical user interface (GUI) to process aerial images and data collected from various sensors
+* Optimized the software for better processing speed
+
+### Demonstration
 
 ![I'm a relative reference to a repository file](../../Pics/agriculture_aerial_image/Original.jpg)
 
