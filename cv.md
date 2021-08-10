@@ -40,7 +40,7 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 Please refer to the [Projects](https://liutairan.github.io/projects/) page for details.
 
-#### University of Georgia // Postdoc 
+#### University of Georgia // Postdoc
 * Modeling of Trust in Human-Swarm Interactions
 * Coverage Control and Path Planning with Heterogeneous Robots
 * Aerial Robotics in Agricultural Measurements
@@ -66,6 +66,8 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 * Fundamentals of Instrumentation and Measurement (ME 3603)
 * Autonomous Vehicles (ENGR 4200)
 * Machine Design Lab (ME 4201)
+
+***
 
 ### Publications   
 
