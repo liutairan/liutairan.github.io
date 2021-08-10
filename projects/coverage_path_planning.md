@@ -8,7 +8,7 @@ comments: false
 
 ### Project goal
 
-The goal of this project was to propose new approaches and algorithms that can be used to deploy robots which don't have uniform configurations, such as dynamics, parameters, and capabilities.
+The goal of this project was to propose new approaches and algorithms that can be used to deploy robots in the fields. The robots may not have uniform configurations, such as dynamics, parameters, and capabilities. The environments may also have irregular shapes to capture the features of real fields.
 
 ### My role
 
