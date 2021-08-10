@@ -30,3 +30,12 @@ Figure 1: Initial position and partition of agents in a mixed-dimensional enviro
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/mixed-traj.png" width="360">
 Figure 2: Final position, partition, and trajectory of agents in a mixed-dimensional environment.
+
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/hybrid-initial.png" width="360">
+Figure 3: Initial position and partition of agents in a hybrid environment.
+
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/hybrid-partition.png" width="360">
+Figure 4: Final partition of agents in a hybrid environment.
+
+<img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/hybrid-traj.png" width="360">
+Figure 5: Final position and trajectory of agents in a hybrid environment.
