@@ -68,10 +68,10 @@ September 2011 – May 2012<br>
 Conducted experiments to optimize the performance of the double tail fin UUV.
 Developed a whole system to automatically conduct experiment, collect and process data, and plot results.
 
-* [**Flow Trajectory After Passing Dual Circular Cylinders**](https://liutairan.github.io/projects/flow_trajectory)<br>
+* [**Flow Trajectory Around Two Circular Cylinders**](https://liutairan.github.io/projects/flow_trajectory)<br>
 October 2011 – November 2011<br>
-Designed and built an adjustable dual circular cylinder model for the fluid experiment.
-Conducted experiments with hydrogen bubbles, laser beam, and high resolution high speed camera to study the water flow trajectory after passing dual circular cylinder.
+Designed and built an adjustable two-circular-cylinder model for the experiment.
+Conducted experiments with hydrogen bubbles, laser beam, and high resolution high speed camera to study the water flow trajectory around two circular cylinder.
 
 * [**Composite Bionic Actuators**](https://liutairan.github.io/projects/composite_actuator)<br>
 April 2011 – August 2011<br>
