@@ -26,7 +26,7 @@ So far, we have developed various coverage control and path planning algorithms 
 ### Demonstration
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/mixed-initial.png" width="360">
-Figure 1: Initial position and partition of agents.
+Figure 1: Initial position and partition of agents in a mixed-dimensional environment.
 
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../../Pics/coverage_path_planning/mixed-traj.png" width="360">
-Figure 2: Final position, partition, and trajectory of agents.
+Figure 2: Final position, partition, and trajectory of agents in a mixed-dimensional environment.
