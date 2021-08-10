@@ -6,6 +6,20 @@ categories: [projects]
 comments: false
 ---
 
+Funded by the LSU Economic Development Assistantship (EDA) program.
+
+### Project goal
+The goal of this project was to propose new approaches and algorithms that can be used to deploy aerial or ground robots in space to form a specific geometric pattern.
+
+### My role
+Research Assistant
+
+### My contribution
+
+* Proposed new formation control approaches
+* Provided mathematical proofs
+* Conducted numerical and experimental validations
+
 ### Background   
 Formation control is the behavior that a group of agents acquire and maintain a prescribed geometric shape in space.   
 
@@ -29,8 +43,6 @@ The first method, also called position-based control, requires absolute position
 
 In our research, we mainly use the third method, i.e., distance-based control.   
 
-### Problem Statement
-
 ### Solutions   
 
 ![I'm a relative reference to a repository file](../../Pics/formation_control/FormationShapeMethodsCompare.png)
@@ -51,6 +63,3 @@ I would like to express my special thanks to my colleague Victor Fernandez-Kim, 
 I would like to express my special thanks to Robotarium @ Georgia Tech for their help in running the experiments.
 
 <iframe class="youtube-player" type="text/html" width="360" height="300" src="https://www.youtube.com/embed/yJQnG5hxHcc" frameborder="0" allowfullscreen></iframe>
-
-
-### Relevant Publications
