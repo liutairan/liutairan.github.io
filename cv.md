@@ -55,7 +55,7 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 * Bionic Four-Tail Fin UUV (Mimic Dragonfly)
 * Bionic Long Undulatory Fin UUV (Mimic Black Ghost Knifefish)
 * Bionic Double-Tail Fin UUV
-* Flow Trajectory After Passing Dual Circular Cylinders
+* Flow Trajectory Around Two Circular Cylinders
 * Composite Bionic Actuators
 
 ***
