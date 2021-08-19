@@ -34,3 +34,5 @@ Although the resulting fragments can be paired with a variety of virtual molecul
 ![I'm a relative reference to a repository file](../../Pics/computational_molecule_synthesis/Abstract.png)
 
 Source code can be found at: [eMolFrag](https://github.com/liutairan/eMolFrag), [eSynth](https://github.com/liutairan/eSynth).
+
+eMolFrag is part of the [Deep Drug](https://www.deepdrug.org/) project, where the Deep Drug team was recognized as one of the top 10 teams in the [IBM Watson AI XPRIZE](https://www.xprize.org/articles/30-teams-advance-in-5m-ibm-watson-ai-xprize) competition.
