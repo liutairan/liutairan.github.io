@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: Past/Current Projects
+title: Past and Current Projects
 tags: [projects]
 modified: 06-11-2020
 comments: false
