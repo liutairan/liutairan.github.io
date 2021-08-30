@@ -17,7 +17,7 @@ During my PhD period, I worked at <a href="https://icorelab.github.io" target="_
 Currently, I am appointed as a postdoctoral fellow working at <a href="http://cscl.engr.uga.edu/" target="_blank">Dr. Javad Mohammadpour Velni’s lab</a> at the <a href="https://www.uga.edu/">University of Georgia</a>. My current research primarily focuses on multi-robot coverage control and path planning, deployment of robots for measurements, and human-swarm interactions.
 
 <br />
-I am open to new opportunities, such as postdoctoral researcher, research scientist, research assistant professor, assistant professor, or R&D engineer.
+I am open to new opportunities, such as postdoctoral researcher, research scientist, research assistant professor, or assistant professor.
 
 <br />
 My research interests include <em>System and Control Theory</em>, <em>Multi-Agent/Robot Systems</em>, <em>Cyber-Physical Systems</em>, <em>Complex Networks</em> <em>Large-Scale Networked Systems</em>, <em>Cooperative Control</em>, <em>Distributed Systems/Algorithm</em>, <em>Human-Robot/Swarm Interaction</em>, <em>Robotics (Aerial/Ground/Underwater/Manipulator)</em>, and the applications or intersections of the above areas, such as <em>Communication Networks, Social Networks, Precision Agriculture, Farm Management, Livestock Management, Smart Farming, Traffic Control, Smart City, Connected Vehicles, Multi-Robot Smart Manufacturing/Construction, Multi-Robot Task Allocation</em>.
