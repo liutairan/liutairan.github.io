@@ -8,7 +8,7 @@ comments: false
 
 ### Project goal
 
-A human operator can give feedback and corrections to a robot if it is not working as desired. Monitoring and controlling a swarm of robots is not something easy to do for one operator. The goal of this work is to achieve multi-agent system autonomy such that monitoring and managing a swarm of robots is possible with a few operators or even no one behind the control panel.
+A human operator can give feedback and corrections to a robot if it is not working as desired. Monitoring and controlling a swarm of robots is not something easy to do for one operator. The goal of this work is to achieve multi-agent system autonomy such that monitoring and managing a swarm of robots is possible with a few or even no operators behind the control panel.
 
 ### My role
 
