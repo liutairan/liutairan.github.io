@@ -21,4 +21,4 @@ Researcher, Supervisor
 * Proposed various extensions of this approach to multiple subjects
 
 
-The details will be unveiled later.
+The details of this project will be unveiled later.
