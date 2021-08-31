@@ -41,7 +41,7 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 Please refer to the [Projects](https://liutairan.github.io/projects/) page for details.
 
 #### University of Georgia // Postdoc
-* Modeling of Trust in Human-Swarm Interactions
+* Human-Swarm Interactions and Multi-Robot System Autonomy
 * Coverage Control and Path Planning with Heterogeneous Robots
 * Aerial Robotics in Agricultural Measurements
 
