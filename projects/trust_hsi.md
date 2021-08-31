@@ -1,6 +1,6 @@
 ---
 layout: project-page
-title: Modeling of Trust in Human-Swarm Interactions
+title: Human-Swarm Interactions and Multi-Robot System Autonomy
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 categories: [projects]
 comments: false
