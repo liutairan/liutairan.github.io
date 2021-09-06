@@ -110,6 +110,7 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 * ChemEngineering
 * IEEE Robotics and Automation Letters
 * IEEE Transactions on Cybernetics
+* IEEE Transactions on Industrial Electronics
 * Mathematics
 * Sensors
 
