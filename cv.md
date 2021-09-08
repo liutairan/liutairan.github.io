@@ -112,6 +112,7 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Industrial Electronics
 * Mathematics
+* Micromachines
 * Sensors
 
 ##### - Conference
