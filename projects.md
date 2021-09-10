@@ -9,9 +9,6 @@ comments: false
 
 ### @ University of Georgia     
 
-<!-- * [**CPS**]()<br> -->
-<!-- January 2021 - Present<br> -->
-
 * [**Human-Swarm Interactions and Multi-Robot System Autonomy**](https://liutairan.github.io/projects/trust_hsi/)<br>
 January 2020 - Present<br>
 
