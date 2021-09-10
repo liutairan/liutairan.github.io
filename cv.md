@@ -65,7 +65,7 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 #### Louisiana State University // PhD
 * Fundamentals of Instrumentation and Measurement (ME 3603)
 * Autonomous Vehicles (ENGR 4200)
-* Machine Design Lab (ME 4201)
+* Mechanical Engineering Design Lab (ME 4201)
 
 ***
 
