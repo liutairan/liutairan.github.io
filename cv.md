@@ -66,10 +66,16 @@ Please refer to the [Publications](https://liutairan.github.io/publications/) pa
 
 #### Selected Publications
 
-* Control and Robotics   
 Tairan Liu and Marcio de Queiroz. An orthogonal basis approach to formation shape control. *Automatica*. 129:109619, 2021.
 
-* Bioinformatics   
+Tairan Liu and Marcio de Queiroz. Distance + angle-based control of 2-D rigid formations. *IEEE Transactions on Cybernetics*. DOI: 10.1109/TCYB.2020.2973592, in press.
+
+Tairan Liu, Marcio de Queiroz, Pengpeng Zhang, and Milad Khaledyan. Further results on the distance and area control of planar formations. *International Journal of Control*. 94(3):767-783, 2021.
+
+Tairan Liu, Victor Fernandez-Kim, and Marcio de Queiroz. Switching formation shape control with distance + area/angle feedback. *Systems and Control Letters*. 135:104598, 2020.
+
+Milad Khaledyan, Tairan Liu, Victor Fernandez-Kim, and Marcio de Queiroz. Flocking and target interception control for formations of nonholonomic kinematic agents. *IEEE Transactions on Control Systems Technology*. 28(4):1603-1610, 2020.
+
 Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylinski. Break down in order to build up: Decomposing small molecules for fragment-based drug design with eMolFrag. *Journal of Chemical Information and Modeling*, 57(4):627–631, 2017.
 
 ***
