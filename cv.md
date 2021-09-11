@@ -74,19 +74,19 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 
 ***
 
-### Awards and Honors
-
-* Outstanding Graduate Research Assistant, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2019
-* Economic Development Assistantship Award, Louisiana State University, Baton Rouge, LA, USA, 2016-2019
-* LSU-ME Enrichment Award, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2014
-
-***
-
 ### Grants
 
 #### Co-authored Proposal
 
 * Transportation Consortium of South-Central States, Real-Time Work Zone Traffic Management via Unmanned Air Vehicles, $79,991, 18 months, Co-PIs: Charles Malveaux, Marcio de Queiroz, Xin Li, and Hany Hassan.
+
+***
+
+### Awards and Honors
+
+* Outstanding Graduate Research Assistant, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2019
+* Economic Development Assistantship Award, Louisiana State University, Baton Rouge, LA, USA, 2016-2019
+* LSU-ME Enrichment Award, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2014
 
 ***
 
