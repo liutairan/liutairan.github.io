@@ -22,17 +22,22 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 ### Research Interests
 
+My research interests include:
 * System and Control Theory
-* Multi-Agent/Robot System
+* Multi-Agent / Robot System
 * Cyber-Physical System
 * Complex Network
 * Large-Scale Networked System
 * Cooperative Control
-* Distributed System/Algorithm
+* Distributed System / Algorithm
 * Human-Robot / Swarm Interaction
 * Robotics (Aerial / Ground / Underwater / Manipulator / Surgical / Humanoid)
-
-*Applications or intersections of the above areas: communication networks, social networks, smart farming, precision agriculture, farm management, livestock management, aquaculture management, intelligent transportation, ground / low-altitude traffic control, smart city, connected vehicles, multi-robot smart manufacturing / construction, multi-robot task allocation.*
+* Applications or intersections of the above areas:
+  * Communication networks, social networks
+  * smart farming, precision agriculture, farm management, livestock management, aquaculture management
+  * Intelligent transportation, ground / low-altitude traffic control, smart city, connected vehicles
+  * Multi-robot smart manufacturing / construction
+  * Multi-robot task allocation
 
 ***
 
