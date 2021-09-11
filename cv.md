@@ -34,7 +34,7 @@ My research interests include:
 * Robotics (Aerial / Ground / Underwater / Manipulator / Surgical / Humanoid)
 * Applications or intersections of the above areas:
   * Communication networks, social networks
-  * smart farming, precision agriculture, farm management, livestock management, aquaculture management
+  * Smart farming, precision agriculture, farm management, livestock management, aquaculture management
   * Intelligent transportation, ground / low-altitude traffic control, smart city, connected vehicles
   * Multi-robot smart manufacturing / construction
   * Multi-robot task allocation
