@@ -32,7 +32,7 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 * Human-Robot / Swarm Interaction
 * Robotics (Aerial / Ground / Underwater / Manipulator / Surgical / Humanoid)
 
-*Applications or intersections of the above areas: Communication Networks, Social Networks, Smart Farming, Precision Agriculture, Farm Management, Livestock Management, Aquaculture Management, Intelligent Transportation, Ground / Low-altitude Traffic Control, Smart City, Connected Vehicles, Multi-Robot Smart Manufacturing / Construction, Multi-Robot Task Allocation,  etc.*
+*Applications or intersections of the above areas: communication networks, social networks, smart farming, precision agriculture, farm management, livestock management, aquaculture management, intelligent transportation, ground / low-altitude traffic control, smart city, connected vehicles, multi-robot smart manufacturing / construction, multi-robot task allocation.*
 
 ***
 
