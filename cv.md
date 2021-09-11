@@ -38,7 +38,7 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 ### Research Experience
 
-Please refer to the [Projects](https://liutairan.github.io/projects/) page for details.
+Please refer to the <a href="https://liutairan.github.io/projects/" target="_blank"><u>Projects</u></a> page for details.
 
 #### University of Georgia // Postdoc
 * Human-Swarm Interactions and Multi-Robot System Autonomy
@@ -62,7 +62,7 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 
 ### Publications   
 
-Please refer to the [Publications](https://liutairan.github.io/publications/) page for the full list.
+Please refer to the <a href="https://liutairan.github.io/publications/" target="_blank"><u>Publications</u></a> page for the full list.
 
 #### Selected Publications
 
