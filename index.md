@@ -20,6 +20,18 @@ Currently, I am appointed as a postdoctoral fellow working at <a href="http://cs
 I am open to new opportunities, such as tenure-track assistant professor or postdoctoral researcher.
 
 <br />
-My research interests include <em>System and Control Theory</em>, <em>Multi-Agent/Robot Systems</em>, <em>Cyber-Physical Systems</em>, <em>Complex Networks</em> <em>Large-Scale Networked Systems</em>, <em>Cooperative Control</em>, <em>Distributed Systems/Algorithm</em>, <em>Human-Robot/Swarm Interaction</em>, <em>Robotics (Aerial/Ground/Underwater/Manipulator/Surgical/Humanoid)</em>, and the applications or intersections of the above areas, such as <em>Communication Networks, Social Networks, Smart Farming, Precision Agriculture, Farm Management, Livestock Management, Aquaculture Management, Intelligent Transportation, Ground/Low-altitude Traffic Control, Smart City, Connected Vehicles, Multi-Robot Smart Manufacturing/Construction, Multi-Robot Task Allocation</em>.
+My research interests include:
+
+* System and Control Theory
+* Multi-Agent/Robot System
+* Cyber-Physical System
+* Complex Network
+* Large-Scale Networked System
+* Cooperative Control
+* Distributed System/Algorithm
+* Human-Robot/Swarm Interaction
+* Robotics (Aerial/Ground/Underwater/Manipulator/Surgical/Humanoid)
+
+*Applications or intersections of the above areas: Communication Networks, Social Networks, Smart Farming, Precision Agriculture, Farm Management, Livestock Management, Aquaculture Management, Intelligent Transportation, Ground/Low-altitude Traffic Control, Smart City, Connected Vehicles, Multi-Robot Smart Manufacturing/Construction, Multi-Robot Task Allocation.*
 
 <br />
