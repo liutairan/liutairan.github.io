@@ -60,15 +60,6 @@ Please refer to the [Projects](https://liutairan.github.io/projects/) page for d
 
 ***
 
-### Teaching Experience
-
-#### Louisiana State University // PhD
-* Fundamentals of Instrumentation and Measurement (ME 3603)
-* Autonomous Vehicles (ENGR 4200)
-* Mechanical Engineering Design Lab (ME 4201)
-
-***
-
 ### Publications   
 
 Please refer to the [Publications](https://liutairan.github.io/publications/) page for the full list.
@@ -96,6 +87,15 @@ Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylin
 #### Co-authored Proposal
 
 * Transportation Consortium of South-Central States, Real-Time Work Zone Traffic Management via Unmanned Air Vehicles, $79,991, 18 months, Co-PIs: Charles Malveaux, Marcio de Queiroz, Xin Li, and Hany Hassan.
+
+***
+
+### Teaching Experience
+
+#### Louisiana State University // PhD
+* Fundamentals of Instrumentation and Measurement (ME 3603)
+* Autonomous Vehicles (ENGR 4200)
+* Mechanical Engineering Design Lab (ME 4201)
 
 ***
 
