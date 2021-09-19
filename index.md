@@ -29,7 +29,7 @@ My research interests include:
 * Cooperative Control
 * Distributed System / Algorithm
 * Human-Robot / Swarm Interaction
-* Robotics (Aerial / Ground / Underwater / Manipulator / Surgical / Humanoid)
+* Robotics
 * Applications or intersections of the above areas:
   * Communication networks, social networks
   * Smart farming, precision agriculture, farm management, livestock management, aquaculture management
