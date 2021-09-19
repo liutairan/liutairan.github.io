@@ -31,7 +31,7 @@ My research interests include:
 * Cooperative Control
 * Distributed System / Algorithm
 * Human-Robot / Swarm Interaction
-* Robotics (Aerial / Ground / Underwater / Manipulator / Surgical / Humanoid)
+* Robotics
 * Applications or intersections of the above areas:
   * Communication networks, social networks
   * Smart farming, precision agriculture, farm management, livestock management, aquaculture management
@@ -41,27 +41,19 @@ My research interests include:
 
 ***
 
-### Research Experience
+### Grants
 
-Please refer to the <a href="https://liutairan.github.io/projects/" target="_blank"><u>Projects</u></a> page for details.
+#### Co-authored Proposal
 
-#### University of Georgia // Postdoc
-* Human-Swarm Interactions and Multi-Robot System Autonomy
-* Coverage Control and Path Planning with Heterogeneous Robots
-* Aerial Robotics in Agricultural Measurements
+* Transportation Consortium of South-Central States, Real-Time Work Zone Traffic Management via Unmanned Air Vehicles, $79,991, 18 months, Co-PIs: Charles Malveaux, Marcio de Queiroz, Xin Li, and Hany Hassan.
 
-#### Louisiana State University // PhD
-* Multi-Agent System Formation Control
-* Aerial Robotic Network in Precision Agriculture
-* Computational Molecule Synthesis
-* Multirotor Copters in Precision Agriculture Applications
+***
 
-#### University of Science and Technology of China // Undergraduate
-* Bionic Four-Tail Fin UUV (Mimic Dragonfly)
-* Bionic Long Undulatory Fin UUV (Mimic Black Ghost Knifefish)
-* Bionic Double-Tail Fin UUV
-* Flow Trajectory Around Two Circular Cylinders
-* Composite Bionic Actuators
+### Awards and Honors
+
+* Outstanding Graduate Research Assistant, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2019
+* Economic Development Assistantship Award, Louisiana State University, Baton Rouge, LA, USA, 2016-2019
+* LSU-ME Enrichment Award, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2014
 
 ***
 
@@ -99,19 +91,27 @@ Tairan Liu, Marcio de Queiroz, Pengpeng Zhang, and Milad Khaledyan. Directed for
 
 ***
 
-### Grants
+### Research Experience
 
-#### Co-authored Proposal
+Please refer to the <a href="https://liutairan.github.io/projects/" target="_blank"><u>Projects</u></a> page for details.
 
-* Transportation Consortium of South-Central States, Real-Time Work Zone Traffic Management via Unmanned Air Vehicles, $79,991, 18 months, Co-PIs: Charles Malveaux, Marcio de Queiroz, Xin Li, and Hany Hassan.
+#### University of Georgia // Postdoc
+* Human-Swarm Interactions and Multi-Robot System Autonomy
+* Coverage Control and Path Planning with Heterogeneous Robots
+* Aerial Robotics in Agricultural Measurements
 
-***
+#### Louisiana State University // PhD
+* Multi-Agent System Formation Control
+* Aerial Robotic Network in Precision Agriculture
+* Computational Molecule Synthesis
+* Multirotor Copters in Precision Agriculture Applications
 
-### Awards and Honors
-
-* Outstanding Graduate Research Assistant, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2019
-* Economic Development Assistantship Award, Louisiana State University, Baton Rouge, LA, USA, 2016-2019
-* LSU-ME Enrichment Award, Department of Mechanical and Industrial Engineering, Louisiana State University, Baton Rouge, LA, USA, 2014
+#### University of Science and Technology of China // Undergraduate
+* Bionic Four-Tail Fin UUV (Mimic Dragonfly)
+* Bionic Long Undulatory Fin UUV (Mimic Black Ghost Knifefish)
+* Bionic Double-Tail Fin UUV
+* Flow Trajectory Around Two Circular Cylinders
+* Composite Bionic Actuators
 
 ***
 
@@ -177,7 +177,7 @@ Robo-Game Competition of USTC (2010)
 
 *** -->
 
-<!-- ### Graduate Level Courses
+### Graduate Level Courses
 
 * Advanced Mechanical Systems Control
 * Introduction to Modern Control Theory
@@ -193,7 +193,7 @@ Robo-Game Competition of USTC (2010)
 * Intelligent Control and Applications in Power Systems
 * Stress Analysis in Mechanical Engineering
 
-*** -->
+***
 
 ### Teaching Interests
 
