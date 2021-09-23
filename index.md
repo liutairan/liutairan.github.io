@@ -9,7 +9,6 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 I received my BS degree in Theoretical and Applied Mechanics at <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, and PhD degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>.
 
-
 <br />
 During my PhD period, I worked at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a> in the <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a> at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. My dissertation is entitled “Distance-Based Formation Control: Theory, Applications, and Issues” under the guidance of Dr. Marcio de Queiroz. I worked on multi-agent/robot system formation control problem and aerial robotic networks. I proposed new control algorithms with mathematical proofs, built a quadrotor fleet from scratch, developed micro-controller- and computer-based software, and conducted experiments to validate theories.
 
@@ -37,4 +36,5 @@ My research interests include:
   * Multi-robot smart manufacturing / construction
   * Multi-robot task allocation
 
+<img style="display:block; margin-left: auto; margin-right: auto;" src="Pics/index/ResearchInterest.png" width="480">
 <br />
