@@ -36,5 +36,5 @@ My research interests include:
   * Multi-robot smart manufacturing / construction
   * Multi-robot task allocation
 
-<img style="display:block; margin-left: auto; margin-right: auto;" src="Pics/index/ResearchInterest.png" width="480">
+<!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="Pics/index/ResearchInterest.png" width="480"> -->
 <br />
