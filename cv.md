@@ -133,6 +133,7 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 * Applied Sciences
 * Automatica
 * ChemEngineering
+* Electronics
 * IEEE Robotics and Automation Letters
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Industrial Electronics
