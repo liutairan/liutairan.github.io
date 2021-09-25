@@ -135,6 +135,7 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 * ChemEngineering
 * Electronics
 * IEEE Robotics and Automation Letters
+* IEEE Transactions on Automatic Control
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Industrial Electronics
 * Mathematics
