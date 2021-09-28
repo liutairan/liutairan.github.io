@@ -140,6 +140,7 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 * IEEE Transactions on Industrial Electronics
 * Mathematics
 * Micromachines
+* Robotics
 * Sensors
 
 ##### - Conference
