@@ -10,7 +10,7 @@ comments: false
 ### @ University of Georgia     
 
 * [**Human-Swarm Interactions and Multi-Robot System Autonomy**](https://liutairan.github.io/projects/trust_hsi/)<br>
-January 2020 - Present<br>
+January 2021 - October 2021<br>
 
 * [**Coverage Control and Path Planning with Heterogeneous Robots**](https://liutairan.github.io/projects/coverage_path_planning/)<br>
 September 2020 - August 2021<br>
