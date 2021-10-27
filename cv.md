@@ -137,6 +137,7 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 * IEEE Robotics and Automation Letters
 * IEEE Transactions on Automatic Control
 * IEEE Transactions on Cybernetics
+* IEEE Transactions on Human-Machine Systems
 * IEEE Transactions on Industrial Electronics
 * Mathematics
 * Micromachines
