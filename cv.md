@@ -81,7 +81,7 @@ Milad Khaledyan, Tairan Liu, Victor Fernandez-Kim, and Marcio de Queiroz. Flocki
 Tairan Liu, Misagh Naderi, Chris Alvin, Supratik Mukhopadhyay, and Michal Brylinski. Break down in order to build up: Decomposing small molecules for fragment-based drug design with eMolFrag. *Journal of Chemical Information and Modeling*, 57(4):627–631, 2017.    
 
 <br />
-Tairan Liu and Javad Mohammadpour Velni. Multi-Agent Systems Coverage Control in Mixed-Dimensional and Hybrid Environments. *Modeling, Estimation and Control Conference 2021 (MECC)*. To appear.    
+Tairan Liu and Javad Mohammadpour Velni. Multi-Agent Systems Coverage Control in Mixed-Dimensional and Hybrid Environments. *Proceedings of the First IFAC Modeling, Estimation and Control Conference*, pp.765-770, Austin, TX, Oct. 2021.    
 
 <br />
 Tairan Liu, Marcio de Queiroz, and Farid Sahebsara. Distance-based planar formation control using orthogonal variables. In *Proceedings of the 2020 IEEE Conference on Control Technology and Applications (CCTA)*, pp. 64-69, Montréal, Canada, Aug. 2020.    
