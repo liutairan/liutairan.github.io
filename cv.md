@@ -20,6 +20,13 @@ Download my <a href="https://liutairan.github.io/TairanLiu-CV.pdf" target="_blan
 
 ***
 
+### Professional Appointments
+
+* Postdoctoral Research Scholar, Department of Mechanical & Aerospace Engineering, North Carolina State University, 2021 - Present
+* Postdoctoral Fellow, School of Electrical and Computer Engineering, University of Georgia, 2020 - 2021
+
+***
+
 ### Research Interests
 
 My research interests include:
