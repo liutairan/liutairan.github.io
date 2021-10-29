@@ -13,7 +13,7 @@ I received my BS degree in Theoretical and Applied Mechanics at <a href="http://
 During my PhD period, I worked at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a> in the <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a> at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. My dissertation is entitled “Distance-Based Formation Control: Theory, Applications, and Issues” under the guidance of Dr. Marcio de Queiroz. I worked on multi-agent/robot system formation control problem and aerial robotic networks. I proposed new control algorithms with mathematical proofs, built a quadrotor fleet from scratch, developed micro-controller- and computer-based software, and conducted experiments to validate theories.
 
 <br />
-After my PhD graduation, I worked at the <a href="https://www.uga.edu/">University of Georgia</a> as a postdoctoral fellow from September 2020 to October 2021. My research at UGA primarily focuses on multi-robot coverage control and path planning, deployment of robots for non-destructive agricultural sensing and measurements, intra-swarm or human-swarm interactions, and multi-agent system autonomy.
+After my PhD graduation, I worked at the <a href="https://www.uga.edu/">University of Georgia</a> (UGA) as a postdoctoral fellow from September 2020 to October 2021. My research at UGA primarily focuses on multi-robot coverage control and path planning, deployment of robots for non-destructive agricultural sensing and measurements, intra-swarm or human-swarm interactions, and multi-agent system autonomy.
 
 <!-- <a href="http://cscl.engr.uga.edu/" target="_blank">Dr. Javad Mohammadpour Velni’s lab</a> -->
 
