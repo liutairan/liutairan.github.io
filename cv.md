@@ -163,62 +163,19 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 
 ***
 
-### Graduate Level Courses
-
-* Advanced Mechanical Systems Control
-* Introduction to Modern Control Theory
-* Advanced Linear Systems
-* Advanced Topics in Control
-* Industrial Robotics
-* Topics in Modern System Science
-* Advanced Engineering System Dynamics
-* Sensors and Actuators
-* Numerical Methods in Applied Mechanics
-* Advanced Vibrations
-* Mathematics Methods in Engineering
-* Intelligent Control and Applications in Power Systems
-* Stress Analysis in Mechanical Engineering
-
-***
-
 ### Teaching Interests
 
-#### Undergraduate Level Courses
-
 ##### - Engineering Basics
-* Numerical Methods
-* Mathematical Methods in Engineering
-* Engineering System Dynamics
-* Instrumentation and Measurement
-
-##### - Mechanical Engineering Basics
-* Mechanics (Statics and Dynamics)
-* Mechanical Vibrations
-
-##### - Control and System
-* Classical Control Theory
-* Modern Control Theory
-* Intelligent Control and Applications
-
-##### - Robotics
-* Introduction to Robotics
-* Industrial Robotics
-* Sensors and Actuators
-* Autonomous Vehicles
-
-#### Graduate Level Courses
+Numerical Methods, Engineering System Dynamics, and Instrumentation and Measurement.
 
 ##### - Mechanical Engineering
-* Advanced Vibrations
-* Advanced Dynamics
+Mechanics (Statics and Dynamics) and Mechanical Vibrations.
 
-##### - Control and Systems
-* Advanced Linear Systems
-* Nonlinear Control Theory
+##### - Control and System
+Classical Control Theory, Modern Control Theory, Intelligent Control, and Nonlinear Control Theory.
 
 ##### - Robotics
-* Multi-copter Design and Control Practice
+Sensors and Actuators, Robot Manipulators, and Multi-rotor Aerial Vehicles.
 
-##### - Advanced Topics
-* Introduction to Multi-Agent System Autonomy and Control
-* Advanced Topics in Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc.
+##### - Speciality
+Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc.
