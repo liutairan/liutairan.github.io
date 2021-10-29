@@ -163,31 +163,6 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 
 ***
 
-<!-- ### Skills
-
-#### Hardware
-Arduino, Raspberry Pi, STM32 FC, NodeMCU, XBee, 3D Printer, etc.
-
-#### Software
-XCTU, QT Creator, TeXstudio, Inkscape, AutoCAD, FreeCAD, Blender, Arduino IDE, OpenShot Video Editor, etc.
-
-#### Programming Languages
-Python, MATLAB/Simulink, C, C++ (associated with GUI design with QT).
-
-#### Natural Languages
-Chinese (mother tongue) and English.
-
-#### Others
-HPC (Philip@LSU, SuperMike-II@LSU, QB2@LONI), LaTeX. -->
-
-<!-- *** -->
-
-<!-- ### Other Experience
-
-Robo-Game Competition of USTC (2010)
-
-*** -->
-
 ### Graduate Level Courses
 
 * Advanced Mechanical Systems Control
