@@ -165,17 +165,12 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 
 ### Teaching Interests
 
-##### - Engineering Basics
-Numerical Methods, Engineering System Dynamics, and Instrumentation and Measurement.
+**Engineering Basics**:  Numerical Methods, Engineering System Dynamics, and Instrumentation and Measurement.
 
-##### - Mechanical Engineering
-Mechanics (Statics and Dynamics) and Mechanical Vibrations.
+**Mechanical Engineering**: Mechanics (Statics and Dynamics) and Mechanical Vibrations.
 
-##### - Control and System
-Classical Control Theory, Modern Control Theory, Intelligent Control, and Nonlinear Control Theory.
+**Control and System**: Classical Control Theory, Modern Control Theory, Intelligent Control, and Nonlinear Control Theory.
 
-##### - Robotics
-Sensors and Actuators, Robot Manipulators, and Multi-rotor Aerial Vehicles.
+**Robotics**: Sensors and Actuators, Robot Manipulators, and Multi-rotor Aerial Vehicles.
 
-##### - Speciality
-Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc.
+**Speciality**: Multi-Agent Systems: Consensus, Formation, Coverage, Distributed Algorithms, etc.
