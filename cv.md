@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: Curriculum Vitae
 tags: [about]
-modified: 05-03-2020
+modified: 11-01-2021
 comments: false
 ---
 
