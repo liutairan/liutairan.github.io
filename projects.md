@@ -7,6 +7,11 @@ modified: 06-11-2020
 comments: false
 ---
 
+### @ North Carolina State University
+
+* [**Human Performance Augmentation with Exoskeletons**](https://liutairan.github.io/projects/knee-exoskeleton/)<br>
+November 2021 - Present
+
 ### @ University of Georgia     
 
 * [**Human-Swarm Interactions and Multi-Robot System Autonomy**](https://liutairan.github.io/projects/trust_hsi/)<br>
