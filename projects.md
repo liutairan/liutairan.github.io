@@ -10,7 +10,7 @@ comments: false
 ### @ North Carolina State University
 
 * [**Human Performance Augmentation with Exoskeletons**](https://liutairan.github.io/projects/knee-exoskeleton/)<br>
-November 2021 - Present
+November 2021 - Present<br>
 
 ### @ University of Georgia     
 
