@@ -102,6 +102,9 @@ Tairan Liu, Marcio de Queiroz, Pengpeng Zhang, and Milad Khaledyan. Directed for
 
 Please refer to the <a href="https://liutairan.github.io/projects/" target="_blank"><u>Projects</u></a> page for details.
 
+####  North Carolina State University // Postdoc
+* Human Performance Augmentation with Exoskeletons
+
 #### University of Georgia // Postdoc
 * Human-Swarm Interactions and Multi-Robot System Autonomy
 * Coverage Control and Path Planning with Heterogeneous Robots
