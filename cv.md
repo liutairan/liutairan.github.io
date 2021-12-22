@@ -73,7 +73,7 @@ Please refer to the <a href="https://liutairan.github.io/publications/" target="
 Tairan Liu and Marcio de Queiroz. An orthogonal basis approach to formation shape control. *Automatica*. 129:109619, 2021.    
 
 <br />
-Tairan Liu and Marcio de Queiroz. Distance + angle-based control of 2-D rigid formations. *IEEE Transactions on Cybernetics*. DOI: 10.1109/TCYB.2020.2973592, in press.    
+Tairan Liu and Marcio de Queiroz. Distance + angle-based control of 2-D rigid formations. *IEEE Transactions on Cybernetics*. 51(12):5969-5978, 2021.    
 
 <br />
 Tairan Liu, Marcio de Queiroz, Pengpeng Zhang, and Milad Khaledyan. Further results on the distance and area control of planar formations. *International Journal of Control*. 94(3):767-783, 2021.    
