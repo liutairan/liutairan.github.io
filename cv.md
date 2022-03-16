@@ -163,6 +163,7 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 * IEEE Conference on Control Technology and Applications
 * IEEE Conference on Decision and Control
 * IEEE International Conference on Robotics and Automation
+* IEEE/ASME International Conference onAdvanced Intelligent Mechatronics
 
 #### Membership
 
