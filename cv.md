@@ -136,6 +136,9 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 
 ### Professional Activities
 
+#### Editor
+* Applied System Innovation (Topical Advisory Panel Member)
+
 #### Reviewer
 
 ##### - Journal
