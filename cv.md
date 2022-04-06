@@ -154,6 +154,7 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Human-Machine Systems
 * IEEE Transactions on Industrial Electronics
+* Journal of Marine Science and Engineering
 * Mathematics
 * Micromachines
 * Robotics
