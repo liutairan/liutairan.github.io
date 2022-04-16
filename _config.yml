@@ -17,10 +17,15 @@ owner:
   google_scholar: WnQjo4MAAAAJ
   github: liutairan
   linkedin: tairan-liu
+
 # Analytics and webmaster tools stuff goes here
+analytics:
+  provider: "google-gtag"
+  google:
+    measurement_id: G-R0DDYYFPHC
+    property_id: 311399937
+
 google_analytics: UA-137049575-1
-google_analytics: 311399937
-google_analytics: G-R0DDYYFPHC
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
