@@ -157,6 +157,7 @@ Please refer to the <a href="https://liutairan.github.io/projects/" target="_bla
 * Journal of Marine Science and Engineering
 * Mathematics
 * Micromachines
+* Remote Sensing
 * Robotics
 * Sensors
 
