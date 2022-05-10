@@ -44,6 +44,8 @@ links:
     url: /projects/
   - title: Code
     url: /code/
+  - title: The PACK Lab
+    url: /the-pack-lab/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    US/Eastern
