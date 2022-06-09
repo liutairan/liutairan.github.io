@@ -13,3 +13,7 @@ comments: false
 * **Principles of Automatic Control** (MAE 435) - Fall 2021
 
 ### @ Louisiana State University
+
+* **Fundamentals of Instrumentation and Measurement** (ME 3603) - Spring 2020
+* **Autonomous Vehicles** (ENGR 4200) - Spring 2016
+* **Mechanical Engineering Design Lab** (ME 4201) - Fall 2015
