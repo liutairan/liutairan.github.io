@@ -10,7 +10,7 @@ comments: false
 ### @ North Carolina State University
 
 * [**Human Performance Augmentation with Exoskeletons**](https://liutairan.github.io/projects/human_performance_augmentation/)<br>
-November 2021 - Present<br>
+November 2021 - July 2022<br>
 
 ### @ University of Georgia     
 
