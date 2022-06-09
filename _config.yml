@@ -45,7 +45,7 @@ links:
   - title: Teaching
     url: /teaching/
   - title: PACK Lab
-    url: "https://pack-lab.github.io"
+    url: /pack-lab/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    US/Eastern
