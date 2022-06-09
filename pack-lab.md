@@ -8,3 +8,5 @@ comments: false
 ---
 
 ### Perception, Actuation, Control, and Network (PACK) Lab
+
+<meta http-equiv='refresh' content='3; URL=https://pack-lab.github.io/'>
