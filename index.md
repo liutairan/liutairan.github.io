@@ -7,24 +7,28 @@ tags: [Jekyll, theme, responsive, blog, template]
   feature: trees.jpg -->
 ---
 
-I received my BS degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, and Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>.
+### Biography
 
-<br />
-During my Ph.D. period, I worked at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a> in the <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a> at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. My dissertation is entitled “Distance-Based Formation Control: Theory, Applications, and Issues” under the guidance of Dr. Marcio de Queiroz. I worked on multi-agent/robot system formation control problems and aerial robotic networks. I proposed new control algorithms with mathematical proofs, built a quadrotor fleet from scratch, developed micro-controller- and computer-based software, and conducted experiments to validate theories.
+Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, Hefei, Anhui, China, in 2012, and the Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>, Baton Rouge, Louisiana, USA, in 2020. He held postdoctoral appointments at the University of Georgia (2020-2021) and North Carolina State University (2021-2022).
 
-<br />
-After my Ph.D. graduation, I worked at the <a href="https://www.uga.edu/">University of Georgia</a> (UGA) as a postdoctoral fellow from September 2020 to October 2021. My research at UGA primarily focuses on multi-robot coverage control and path planning, deployment of robots for non-destructive agricultural sensing and measurements, intra-swarm or human-swarm interactions, and multi-agent system autonomy.
+<!-- I received my BS degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, and Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. -->
+
+<!-- <br /> -->
+<!-- During my Ph.D. period, I worked at <a href="https://icorelab.github.io" target="_blank">iCORE Lab</a> in the <a href="https://www.lsu.edu/eng/mie/" target="_blank">Department of Mechanical and Industrial Engineering</a> at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. My dissertation is entitled “Distance-Based Formation Control: Theory, Applications, and Issues” under the guidance of Dr. Marcio de Queiroz. I worked on multi-agent/robot system formation control problems and aerial robotic networks. I proposed new control algorithms with mathematical proofs, built a quadrotor fleet from scratch, developed micro-controller- and computer-based software, and conducted experiments to validate theories. -->
+
+<!-- <br /> -->
+<!-- After my Ph.D. graduation, I worked at the <a href="https://www.uga.edu/">University of Georgia</a> (UGA) as a postdoctoral fellow from September 2020 to October 2021. My research at UGA primarily focuses on multi-robot coverage control and path planning, deployment of robots for non-destructive agricultural sensing and measurements, intra-swarm or human-swarm interactions, and multi-agent system autonomy. -->
 
 <!-- <a href="http://cscl.engr.uga.edu/" target="_blank">Dr. Javad Mohammadpour Velni’s lab</a> -->
 
-<br />
-Currently, I am appointed as a postdoctoral research scholar working at the <a href="https://haosu-robotics.github.io/" target="_blank">Biomechatronics and Intelligent Robotics Lab</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. My current research focuses on wearable, soft, and surgical robotics.
+<!-- <br /> -->
+<!-- Currently, I am appointed as a postdoctoral research scholar working at the <a href="https://haosu-robotics.github.io/" target="_blank">Biomechatronics and Intelligent Robotics Lab</a> at <a href="https://www.ncsu.edu/">North Carolina State University</a>. My current research focuses on wearable, soft, and surgical robotics. -->
 
-<br />
-I am open to tenure-track assistant professor positions.
+<!-- <br /> -->
+<!-- I am open to tenure-track assistant professor positions. -->
 
-<br />
-My research interests include:
+<!-- <br /> -->
+### Research interests
 * System and Control Theory
 * Multi-Agent / Robot System
 * Cyber-Physical System
@@ -40,6 +44,8 @@ My research interests include:
   * Multi-robot task allocation, smart manufacturing / construction, surgery, operation
   * Communication networks, social networks
 
+### Teaching interests
+Dynamics, Control, Robotics
 
 <!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="Pics/index/ResearchInterest.png" width="480"> -->
 <br />
