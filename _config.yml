@@ -23,7 +23,8 @@ owner:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: G-R0DDYYFPHC
+    measurement_id: G-R0DDYYFPHC
+    anonymize_ip: false # default
     # measurement_id: G-R0DDYYFPHC
     # property_id: 311399937
     # stream_id: 3452786612
