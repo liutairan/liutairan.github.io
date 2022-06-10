@@ -37,16 +37,12 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: CV
-    url: /cv/
   - title: Publications
     url: /publications/
-  - title: Projects
+  - title: Research
     url: /projects/
   - title: Teaching
     url: /teaching/
-  - title: PACK Lab
-    url: /pack-lab/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    US/Eastern
