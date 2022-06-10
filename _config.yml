@@ -23,11 +23,12 @@ owner:
 analytics:
   provider: "google-gtag"
   google:
-    measurement_id: G-R0DDYYFPHC
-    property_id: 311399937
-    stream_id: 3452786612
+    tracking_id: G-R0DDYYFPHC
+    # measurement_id: G-R0DDYYFPHC
+    # property_id: 311399937
+    # stream_id: 3452786612
 
-google_analytics: UA-137049575-1
+# google_analytics: UA-137049575-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
