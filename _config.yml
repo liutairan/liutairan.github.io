@@ -45,6 +45,8 @@ links:
     url: /projects/
   - title: Teaching
     url: /teaching/
+  - title: Service
+    url: /services/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    US/Eastern
