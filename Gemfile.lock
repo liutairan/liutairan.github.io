@@ -9,9 +9,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     ffi (1.15.5)
-    ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
     i18n (1.10.0)
@@ -72,30 +70,25 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
-    sassc (2.4.0-x64-mingw32)
-      ffi (~> 1.9)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     titlecase (0.1.1)
-    tzinfo (2.0.4)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2022.1)
-      tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
+    webrick (1.7.0)
 
 PLATFORMS
-  ruby
-  x64-mingw32
+  arm64-darwin-21
 
 DEPENDENCIES
   ffi (>= 1.9.24)
-  jekyll (>= 3.6.3)
+  jekyll (>= 4.0.1)
   jekyll-sitemap
   octopress (~> 3.0.0.rc.12)
   rouge
   tzinfo-data
   wdm (~> 0.1.1)
+  webrick (~> 1.7)
 
 BUNDLED WITH
-   2.1.4
+   2.3.15
