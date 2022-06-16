@@ -9,6 +9,8 @@ comments: false
 
 ### @ California State University, Long Beach
 
+* TBD - Fall 2022
+
 ### @ North Carolina State University
 
 * **Medical Robotics** (MAE 495/589) - Spring 2022
