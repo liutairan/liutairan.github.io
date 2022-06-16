@@ -9,7 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ### Biography
 
-Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, Hefei, Anhui, China, in 2012, and the Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>, Baton Rouge, Louisiana, USA, in 2020. He held postdoctoral appointments at the University of Georgia (2020-2021) and North Carolina State University (2021-2022).
+Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, Hefei, Anhui, China, in 2012, and the Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>, Baton Rouge, Louisiana, USA, in 2020. He held postdoctoral appointments at the University of Georgia (2020-2021) and North Carolina State University (2021-2022) until starting as an assistant professor of Mechanical and Aerospace Engineering at CSULB in August 2022. His research mainly focuses on control theory, multi-agent systems, and robotics.
 
 <!-- I received my BS degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, and Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. -->
 
@@ -28,6 +28,16 @@ Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the
 <!-- I am open to tenure-track assistant professor positions. -->
 
 <!-- <br /> -->
+### Education   
+
+* Ph.D., Mechanical Engineering, Louisiana State University, USA, 2020
+* B.S., Theoretical and Applied Mechanics, University of Science and Technology of China, P.R. China, 2012
+
+### Professional Appointments
+* Assistant Professor, Department of Mechanical and Aerospace Engineering, California State University, Long Beach, 2022 - Present
+* Postdoctoral Research Scholar, Department of Mechanical and Aerospace Engineering, North Carolina State University, 2021 - 2022
+* Postdoctoral Fellow, Department of Electrical and Computer Engineering, University of Georgia, 2020 - 2021
+
 ### Research interests
 * System and Control Theory
 * Multi-Agent / Robot System
@@ -47,5 +57,5 @@ Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the
 ### Teaching interests
 Dynamics, Control, Robotics
 
+
 <!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="Pics/index/ResearchInterest.png" width="480"> -->
-<br />
