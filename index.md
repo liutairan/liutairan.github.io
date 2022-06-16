@@ -38,7 +38,7 @@ Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the
 * Postdoctoral Research Scholar, Department of Mechanical and Aerospace Engineering, North Carolina State University, 2021 - 2022
 * Postdoctoral Fellow, Department of Electrical and Computer Engineering, University of Georgia, 2020 - 2021
 
-### Research interests
+### Research Interests
 * System and Control Theory
 * Multi-Agent / Robot System
 * Cyber-Physical System
@@ -54,7 +54,7 @@ Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the
   * Multi-robot task allocation, smart manufacturing / construction, surgery, operation
   * Communication networks, social networks
 
-### Teaching interests
+### Teaching Interests
 Dynamics, Control, Robotics
 
 
