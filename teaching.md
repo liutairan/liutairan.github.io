@@ -23,5 +23,5 @@ comments: false
 * **Autonomous Vehicles** (ENGR 4200)<sup>\*\*</sup> - Spring 2016
 * **Mechanical Engineering Design Lab** (ME 4201) - Fall 2015
 
-<sup>\*</sup>   *For graduate students only.*
+<sup>\*</sup>   *For graduate students only.*  
 <sup>\*\*</sup> *For both graduate and undergraduate students.*
