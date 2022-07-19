@@ -9,7 +9,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ### Biography
 
-Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, Hefei, Anhui, China, in 2012, and the Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>, Baton Rouge, Louisiana, USA, in 2020. He held postdoctoral appointments at the University of Georgia (2020-2021) and North Carolina State University (2021-2022) until starting as an assistant professor of Mechanical and Aerospace Engineering at CSULB in August 2022. His research mainly focuses on control theory, multi-agent systems, and robotics.
+Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, Hefei, Anhui, China, in 2012, and the Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>, Baton Rouge, Louisiana, USA, in 2020. He held postdoctoral appointments at the University of Georgia (2020-2021) and North Carolina State University (2021-2022) before starting as an assistant professor of Mechanical and Aerospace Engineering at CSULB in August 2022. His research mainly focuses on control theory, multi-agent systems, and robotics.
 
 <!-- I received my BS degree in Theoretical and Applied Mechanics at the <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>, and Ph.D. degree in Mechanical Engineering at <a href="https://www.lsu.edu/" target="_blank">Louisiana State University</a>. -->
 
