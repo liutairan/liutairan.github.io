@@ -60,6 +60,7 @@ Dynamics, Control, Robotics
 ### External Links
 
 [CSULB](https://www.csulb.edu/college-of-engineering/dr-tairan-liu)
+
 [PACK Lab](https://pack-lab.github.io)
 
 <!-- <img style="display:block; margin-left: auto; margin-right: auto;" src="Pics/index/ResearchInterest.png" width="480"> -->
