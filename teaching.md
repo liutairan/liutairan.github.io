@@ -11,6 +11,7 @@ comments: false
 
 * **Modeling and Analysis of Dynamic Systems** (MAE 376) - Fall 2022
 * **Modern Control of Dynamic Systems** (MAE 573)<sup>\*</sup> - Fall 2022
+* **Robot Modeling and Control** (MAE 575)<sup>\*</sup> - Fall 2022
 
 ### @ North Carolina State University
 
