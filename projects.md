@@ -9,6 +9,9 @@ comments: false
 
 ### @ North Carolina State University
 
+* [**Assured Autonomy of Legged Robots**](https://liutairan.github.io/projects/)<br>
+January 2022 - August 2022<br>
+
 * [**Human Performance Augmentation with Exoskeletons**](https://liutairan.github.io/projects/human_performance_augmentation/)<br>
 November 2021 - July 2022<br>
 
