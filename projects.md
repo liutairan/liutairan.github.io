@@ -7,6 +7,8 @@ modified: 06-11-2020
 comments: false
 ---
 
+### @ California State University, Long Beach    
+
 ### @ North Carolina State University
 
 * [**Assured Autonomy of Legged Robots**](https://liutairan.github.io/projects/)<br>
