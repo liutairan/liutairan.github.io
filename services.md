@@ -38,3 +38,15 @@ comments: false
 * IEEE Conference on Decision and Control
 * IEEE International Conference on Robotics and Automation
 * IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+
+### Mentor, Advisor, and Committee Member
+
+##### Graduate
+
+##### Undergraduate
+
+##### High School
+
+### Other Services
+
+* Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee
