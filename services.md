@@ -43,7 +43,7 @@ comments: false
 
 ##### Graduate
 
-Alexander Wang
+Alexander Wang (Fall 2022 - )
 
 ##### Undergraduate
 
