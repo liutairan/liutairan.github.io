@@ -40,13 +40,13 @@ author_profile: true
 
 ### Mentor, Advisor, and Committee Member
 
-##### Graduate Students
+##### - Graduate Students
 
 Alexander Wang (Fall 2022 - )
 
-##### Undergraduate Students
+##### - Undergraduate Students
 
-##### High School Students
+##### - High School Students
 * First Tech Challenge, Girls Academic Leadership Academy Robotics Team
 
 ### Other Services
