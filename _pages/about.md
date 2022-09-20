@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tairan Liu's Homepage"
+title: "Tairan Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from:
