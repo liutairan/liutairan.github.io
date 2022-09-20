@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Tairan Liu"
   avatar           : "profile.jpg"
-  bio              : "The mission of the PACK Lab is to resolve real-world problems related to perception, actuation, control, and network. "
+  bio              : "PhD, Mechanical Engineering. Assistant Professor at California State University, Long Beach. (PDT, UTC-7)"
   location         : "Long Beach, California"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=WnQjo4MAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pack-lab"
+  github           : "liutairan"
   google_plus      :
   keybase          :
   instagram        :
