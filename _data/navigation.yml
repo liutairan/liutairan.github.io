@@ -1,23 +1,16 @@
 # main links links
 main:
-  - title: "About the PACK Lab"
+  - title: "Home"
     url: /
 
-  # - title: "Publications"
-    # url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Research"
     url: /research/
 
-  # - title: "Teaching"
-    # url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
-  - title: "Members"
-    url: /members/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-
-  - title: "News"
-    url: /news/
+  - title: "Service"
+    url: /service/
