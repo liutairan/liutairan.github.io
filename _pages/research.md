@@ -10,36 +10,36 @@ author_profile: true
 
 ### @ North Carolina State University
 
-* [**Assured Autonomy of Legged Robots**](https://liutairan.github.io/projects/)<br>
+* [**Assured Autonomy of Legged Robots**](https://liutairan.github.io/research/)<br>
 January 2022 - August 2022<br>
 
-* [**Human Performance Augmentation with Exoskeletons**](https://liutairan.github.io/projects/human_performance_augmentation/)<br>
+* [**Human Performance Augmentation with Exoskeletons**](https://liutairan.github.io/_research/human_performance_augmentation/)<br>
 November 2021 - July 2022<br>
 
 ### @ University of Georgia     
 
-* [**Human-Swarm Interactions and Multi-Robot System Autonomy**](https://liutairan.github.io/projects/trust_hsi/)<br>
+* [**Human-Swarm Interactions and Multi-Robot System Autonomy**](https://liutairan.github.io/_research/trust_hsi/)<br>
 January 2021 - October 2021<br>
 
-* [**Coverage Control and Path Planning with Heterogeneous Robots**](https://liutairan.github.io/projects/coverage_path_planning/)<br>
+* [**Coverage Control and Path Planning with Heterogeneous Robots**](https://liutairan.github.io/_research/coverage_path_planning/)<br>
 September 2020 - August 2021<br>
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/coverage_path_planning/mixed-traj.png" width="360">
 
-* [**Aerial Robotics in Agricultural Measurements**](https://liutairan.github.io/projects/agriculture_measurement/)<br>
+* [**Aerial Robotics in Agricultural Measurements**](https://liutairan.github.io/_research/agriculture_measurement/)<br>
 September 2020 - August 2021<br>
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/agriculture_measurement/PoleFold.png" width="360">
 
 
 ### @ Louisiana State University
 
-* [**Multi-Agent System Formation Control**](https://liutairan.github.io/projects/formation_control/)<br>
+* [**Multi-Agent System Formation Control**](https://liutairan.github.io/_research/formation_control/)<br>
 July 2016 - May 2020<br>
 <!-- Developed new formation control methods, provided mathematical proofs. -->
 <!-- Conducted numerical and experimental validation. -->
 <!-- ![Formation Simulation](../Pics/formation_control/Angle-Directed-Form.gif) -->
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/formation_control/Angle-Directed-Form.gif" width="360">
 
-* [**Aerial Robotic Network in Precision Agriculture**](https://liutairan.github.io/projects/agriculture_robotic/)<br>
+* [**Aerial Robotic Network in Precision Agriculture**](https://liutairan.github.io/_research/agriculture_robotic/)<br>
 July 2016 - October 2019<br>
 <!-- Designed and built a quadrotor fleet from scratch. -->
 <!-- Developed autonomous flight control firmware on MCU and flight control/monitor applications on PC. -->
@@ -48,13 +48,13 @@ July 2016 - October 2019<br>
 <!-- ![Drone](../Pics/agriculture_robotic/DSC_3056.jpg) -->
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/agriculture_robotic/DSC_3056.jpg" width="360">
 
-* [**Computational Molecule Synthesis**](https://liutairan.github.io/projects/computational_molecule_synthesis/)<br>
+* [**Computational Molecule Synthesis**](https://liutairan.github.io/_research/computational_molecule_synthesis/)<br>
 October 2015 - May 2016<br>
 <!-- Developed open-source software which can decompose large molecules to small bio-active fragments, then use fragments to generate target molecules or new molecules for drug design. -->
 <!-- ![Molecule Synthesis](../Pics/computational_molecule_synthesis/Abstract.png) -->
 <img style="display:block; margin-left: auto; margin-right: auto;" src="../Pics/computational_molecule_synthesis/Abstract.png" width="360">
 
-* [**Multirotor Copters in Precision Agriculture Applications**](https://liutairan.github.io/projects/multirotor_agriculture/)<br>
+* [**Multirotor Copters in Precision Agriculture Applications**](https://liutairan.github.io/_research/multirotor_agriculture/)<br>
 February 2015 - June 2015<br>
 <!-- Developed an application to process aerial images. -->
 <!-- Optimized the software for better processing speed. -->
