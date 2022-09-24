@@ -9,7 +9,7 @@ author_profile: true
 
 ### @ California State University, Long Beach
 
-* **Modeling and Analysis of Dynamic Systems** (MAE 376) - Fall 2022, Spring 2023
+* **Modeling and Analysis of Dynamic Systems** (MAE 376) - Fall 2022
 * **Mechanical Control Systems I** (MAE 476) - Spring 2023
 * **Modern Control of Dynamic Systems** (MAE 573)<sup>\*</sup> - Fall 2022
 * **Robot Modeling and Control** (MAE 575)<sup>\*</sup> - Fall 2022
