@@ -21,6 +21,7 @@ author_profile: true
 * Energies
 * IEEE Robotics and Automation Letters
 * IEEE Transactions on Automatic Control
+* IEEE Transactions on Control of Network Systems
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Human-Machine Systems
 * IEEE Transactions on Industrial Electronics
