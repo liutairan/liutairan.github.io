@@ -48,8 +48,8 @@ Alexander Wang (Fall 2022 - )
 ##### - Undergraduate Students
 
 <!-- ##### - High School Students
-* First Tech Challenge, Girls Academic Leadership Academy Robotics Team
+* First Tech Challenge, Girls Academic Leadership Academy Robotics Team -->
 
 ### Other Services
 
-* Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee -->
+* Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee
