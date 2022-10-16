@@ -13,6 +13,7 @@ author_profile: true
 * **Mechanical Control Systems I** (MAE 476) - Spring 2023
 * **Modern Control of Dynamic Systems** (MAE 573)<sup>\*</sup> - Fall 2022
 * **Robot Modeling and Control** (MAE 575)<sup>\*</sup> - Fall 2022
+* **Nonlinear Systems and Control** (MAE 590)<sup>\*</sup> - Spring 2024
 
 ### @ North Carolina State University
 
