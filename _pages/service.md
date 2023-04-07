@@ -52,4 +52,9 @@ Alexander Wang (Fall 2022 - )
 
 ### Other Services
 
-* Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee
+* Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee (Fall 2022 - )
+* Department meeting co-secretary (Fall 2022 - )
+
+### Outreach
+
+* Engineering Girls @ the Beach Day (2023)
