@@ -52,9 +52,10 @@ Alexander Wang (Fall 2022 - )
 
 ### Other Services
 
+* College of Engineering Award Guidelines Subcommittee (Spring 2023 - )
 * Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee (Fall 2022 - )
 * Department meeting co-secretary (Fall 2022 - )
 
-### Outreach
+### Outreach Activities
 
 * Engineering Girls @ the Beach Day (2023)
