@@ -74,4 +74,5 @@ Other
 
 ### Outreach Activities
 
+* Long Beach Rockety (2023)
 * Engineering Girls @ the Beach Day (2023)
