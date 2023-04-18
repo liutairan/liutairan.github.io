@@ -52,6 +52,7 @@ Alexander Wang (Fall 2022 - )
 
 ### Other Services
 
+* College of Engineering Grade Appeals Committee (Spring 2023 - )
 * College of Engineering Award Guidelines Subcommittee (Spring 2023 - )
 * Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee (Fall 2022 - )
 * Department meeting co-secretary (Fall 2022 - )
