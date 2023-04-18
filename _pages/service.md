@@ -43,9 +43,24 @@ author_profile: true
 
 ##### - Graduate Students
 
-Alexander Wang (Fall 2022 - )
+- Jagrut Alpeshbhai Patel (Spring 2023 - )
+- Hiroto Miyamura (Spring 2023 - )
+- Alexander Wang (Fall 2022 - )
 
 ##### - Undergraduate Students
+
+Engineering Honor Track (with thesis)
+
+- Mitchell Hein, 2023 -
+- Edwin Gomez, 2023 -
+- Adam Nguyen, 2022 - 2023
+- Josh Pastizzo, 2022 - 2023
+- Juan Rodríguez, 2022 - 2023
+
+Other
+
+- Israel Alvarez, 2023
+- Jocelyne Valdivia 2022 - 2023
 
 <!-- ##### - High School Students
 * First Tech Challenge, Girls Academic Leadership Academy Robotics Team -->
