@@ -69,6 +69,8 @@ Other
 
 * College of Engineering Grade Appeals Committee (Spring 2023 - )
 * College of Engineering Award Guidelines Subcommittee (Spring 2023 - )
+* CSULB Undergraduate Honor Program Symposium Moderator/Facilitator (Spring 2023)
+* CSULB Student Research Competition Juror (Spring 2023)
 * Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee (Fall 2022 - )
 * Department meeting co-secretary (Fall 2022 - )
 
