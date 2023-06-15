@@ -45,14 +45,14 @@ author_profile: true
 
 - Jagrut Alpeshbhai Patel (Spring 2023 - )
 - Hiroto Miyamura (Spring 2023 - )
-- Alexander Wang (Fall 2022 - )
+- Alexander Wang (Fall 2022 - Fall 2023)
 
 ##### - Undergraduate Students
 
 Engineering Honor Track (with thesis)
 
 - Mitchell Hein, 2023 -
-- Edwin Gomez, 2023 -
+- Edwin Gomez, 2023
 - Adam Nguyen, 2022 - 2023
 - Josh Pastizzo, 2022 - 2023
 - Juan Rodríguez, 2022 - 2023
