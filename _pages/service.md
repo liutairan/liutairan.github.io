@@ -6,8 +6,8 @@ author_profile: true
 
 ---
 
-### Editor
-* Applied System Innovation (Topical Advisory Panel Member)
+### Editorial Board
+* Review Editor, Frontiers in Control Engineering - Nonlinear Control
 
 ### Reviewer
 
