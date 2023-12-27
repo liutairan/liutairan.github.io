@@ -8,6 +8,12 @@ author_profile: true
 
 ### @ California State University, Long Beach    
 
+* [**Intelligent Robotic Manipulators**]()<br>
+August 2023 - Present<br>
+
+* [**Data-Driven Traffic Management System**]()<br>
+January 2023 - Present<br>
+
 ### @ North Carolina State University
 
 * [**Assured Autonomy of Legged Robots**](https://liutairan.github.io/research/)<br>
