@@ -44,8 +44,8 @@ author_profile: true
 ##### - Graduate Students
 
 - Steve Maldonado Melendez (Fall 2023 - )
-- Jake Beadles (Fall 2023 - )
-- Jagrut Alpeshbhai Patel (Spring 2023 - )
+- Jake Beadles (Fall 2023)
+- Jagrut Alpeshbhai Patel (Spring 2023 - Summer 2023)
 - Hiroto Miyamura (Spring 2023 - )
 - Alexander Wang (Fall 2022 - Fall 2023)
 
@@ -65,8 +65,6 @@ Other
 - Israel Alvarez, 2023
 - Jocelyne Valdivia 2022 - 2023
 
-<!-- ##### - High School Students
-* First Tech Challenge, Girls Academic Leadership Academy Robotics Team -->
 
 ### Other Services
 
@@ -79,6 +77,7 @@ Other
 
 ### Outreach Activities
 
+* SharkSat (2023 - )
 * Long Beach Lunabotics (2023 - )
 * Long Beach Rockety (2023)
 * Engineering Girls @ the Beach Day (2023)
