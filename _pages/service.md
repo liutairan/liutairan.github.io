@@ -47,14 +47,14 @@ author_profile: true
 - Jake Beadles (Fall 2023)
 - Jagrut Alpeshbhai Patel (Spring 2023 - Summer 2023)
 - Hiroto Miyamura (Spring 2023 - )
-- Alexander Wang (Fall 2022 - Fall 2023)
+- Alexander Wang (Fall 2022 - )
 
 ##### - Undergraduate Students
 
 Engineering Honor Track (with thesis)
 
 - Samantha Villa Floran, 2023 - 
-- Mitchell Hein, 2023 -
+- Mitchell Hein, 2023 - 2024
 - Edwin Gomez, 2023
 - Adam Nguyen, 2022 - 2023
 - Josh Pastizzo, 2022 - 2023
@@ -73,7 +73,7 @@ Other
 * CSULB Undergraduate Honor Program Symposium Moderator/Facilitator (Spring 2023)
 * CSULB Student Research Competition Juror (Spring 2023)
 * Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee (Fall 2022 - )
-* Department meeting co-secretary (Fall 2022 - Fall 2023)
+* Department meeting co-secretary (Fall 2022 - )
 
 ### Outreach Activities
 
