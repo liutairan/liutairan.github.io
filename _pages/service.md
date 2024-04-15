@@ -13,12 +13,16 @@ author_profile: true
 
 ##### - Journal
 * Actuators
+* Aerospace
 * Applied Sciences
 * Automatica
+* Big Data and Cognitive Computing
 * ChemEngineering
+* Chinese Journal of Aeronautics
 * Drones
 * Electronics
 * Energies
+* IEEE Control Systems Letters
 * IEEE Robotics and Automation Letters
 * IEEE Transactions on Automatic Control
 * IEEE Transactions on Control of Network Systems
@@ -27,17 +31,22 @@ author_profile: true
 * IEEE Transactions on Industrial Electronics
 * International Journal of Environmental Research and Public Health
 * Journal of Marine Science and Engineering
+* Machines
 * Mathematics
 * Micromachines
+* Nonlinear Analysis: Hybrid Systems
 * Remote Sensing
 * Robotics
+* Science China Information Sciences
 * Sensors
 
 ##### - Conference
 * IEEE Conference on Control Technology and Applications
 * IEEE Conference on Decision and Control
 * IEEE International Conference on Robotics and Automation
+* IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
 * IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+
 
 ### Mentor, Advisor, and Committee Member
 
