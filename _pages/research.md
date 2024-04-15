@@ -8,7 +8,7 @@ author_profile: true
 
 ### @ California State University, Long Beach    
 
-* [**Intelligent Robotic Manipulators**]()<br>
+* [**Safety-Assured Intelligent Robotic Manipulators**]()<br>
 August 2023 - Present<br>
 
 * [**Data-Driven Traffic Management System**]()<br>
