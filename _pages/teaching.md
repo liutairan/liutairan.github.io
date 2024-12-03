@@ -12,7 +12,7 @@ author_profile: true
 * **Modeling and Analysis of Dynamic Systems** (MAE 376) - Fall 2022, 2023, 2024
 * **Mechanical Control Systems I** (MAE 476) - Spring 2023, 2024, 2025, Fall 2025
 * **Modern Control of Dynamic Systems** (MAE 573)<sup>\*</sup> - Fall 2022, 2023, 2024, 2025
-* **Robot Modeling and Control** (MAE 575)<sup>\*</sup> - Fall 2022, 2024 (guest instructor in 2024)
+* **Robot Modeling and Control** (MAE 575)<sup>\*</sup> - Fall 2022, 2024<sup>&dagger;</sup> 
 * **Nonlinear Systems and Control** (MAE 590)<sup>\*</sup> - TBD
 
 ### @ North Carolina State University
@@ -27,4 +27,5 @@ author_profile: true
 * **Mechanical Engineering Design Lab** (ME 4201) - Fall 2015
 
 <sup>\*</sup>   *For graduate students only.*  
-<sup>\*\*</sup> *For both graduate and undergraduate students.*
+<sup>\*\*</sup> *For both graduate and undergraduate students.*    
+<sup>&dagger;</sup> *Guest instructor.*
