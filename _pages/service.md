@@ -87,6 +87,6 @@ Other
 ### Outreach Activities
 
 * SharkSat (2023 - )
-* Long Beach Lunabotics (2023 - )
+* Long Beach Lunabotics (2023 - 2025)
 * Long Beach Rockety (2023)
 * Engineering Girls @ the Beach Day (2023)
