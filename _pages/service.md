@@ -14,18 +14,22 @@ author_profile: true
 ##### - Journal
 * Actuators
 * Aerospace
+* AIMS Electronics and Electrical Engineering
 * Applied Sciences
 * Automatica
 * Big Data and Cognitive Computing
 * ChemEngineering
 * Chinese Journal of Aeronautics
+* Designs
 * Drones
 * Electronics
 * Energies
 * IEEE Control Systems Letters
 * IEEE Robotics and Automation Letters
 * IEEE Transactions on Automatic Control
+* IEEE Transactions on Automation Science and Engineering
 * IEEE Transactions on Control of Network Systems
+* IEEE Transactions on Control Systems Technology
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Human-Machine Systems
 * IEEE Transactions on Industrial Electronics
@@ -41,8 +45,12 @@ author_profile: true
 * Sensors
 
 ##### - Conference
+* American Control Conference
 * IEEE Conference on Control Technology and Applications
 * IEEE Conference on Decision and Control
+* IEEE Green Energy and Smart Systems Conference
+* IEEE International Conference on Intelligent Robots and Systems
+* IEEE/SICE International Symposium on System Integration (SII)
 * IEEE International Conference on Robotics and Automation
 * IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
 * IEEE/ASME International Conference on Advanced Intelligent Mechatronics
