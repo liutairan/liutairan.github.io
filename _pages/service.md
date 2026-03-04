@@ -33,13 +33,17 @@ author_profile: true
 * IEEE Transactions on Cybernetics
 * IEEE Transactions on Human-Machine Systems
 * IEEE Transactions on Industrial Electronics
+* IEEE Transactions on Robotics
 * International Journal of Environmental Research and Public Health
 * Journal of Marine Science and Engineering
 * Machines
 * Mathematics
 * Micromachines
+* Network
 * Nonlinear Analysis: Hybrid Systems
+* Processes
 * Remote Sensing
+* Research in Transportation Economics
 * Robotics
 * Science China Information Sciences
 * Sensors
@@ -54,6 +58,7 @@ author_profile: true
 * IEEE International Conference on Robotics and Automation
 * IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
 * IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+* IFAC World Congress
 
 
 ### Mentor, Advisor, and Committee Member
