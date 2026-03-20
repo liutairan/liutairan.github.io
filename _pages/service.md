@@ -111,7 +111,7 @@ Other
     * Department of Mechanical and Aerospace Engineering Graduate Studies Committee (Fall 2025 --  )
     * Department of Mechanical and Aerospace Engineering T/TT Faculty Search Committee (AI/Robotics), Chair (Fall 2024 -- Spring 2025)
     * epartment of Mechanical and Aerospace Engineering Election Committee (Fall 2024 -- Spring 2025, Fall 2025 -- Spring 2026 (Chair))
-    * Department of Mechanical and Aerospace Engineering Graduate Comprehensive Exam Committee, \textbf{Chair} (Fall 2022 -- )
+    * Department of Mechanical and Aerospace Engineering Graduate Comprehensive Exam Committee, Chair (Fall 2022 -- )
     * Department of Mechanical and Aerospace Engineering Library Liaison (Fall 2025 -- )
     * Course Coordinator: MAE 376, MAE 476, and MAE 573 (Fall 2022 -- )
     * ABET Course Coordinator: MAE 376 and MAE 476
