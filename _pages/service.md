@@ -8,6 +8,13 @@ author_profile: true
 
 ### Editorial Board
 * Review Editor, Frontiers in Control Engineering - Nonlinear Control
+* Topical Advisory Panel Member, Applied System Innovation
+
+### Conference Panel
+* Track Chair (Smart Systems), 2026 IEEE International Conference on Green Energy and Smart Systems (GESS 2026)
+* Technical Program Committee, 2025 IEEE International Conference on Green Energy and Smart Systems (GESS 2025)
+* Track Chair (Student Research Competition), International Conference on Software Engineering of Emerging Technologies (SEET-2025)
+* Session Chair, 2024 IEEE International Conference on Green Energy and Smart Systems (GESS 2024)
 
 ### Reviewer
 
