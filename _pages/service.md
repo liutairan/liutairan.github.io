@@ -61,7 +61,7 @@ author_profile: true
 * IFAC World Congress
 
 
-### Mentor, Advisor, and Committee Member
+<!-- ### Mentor, Advisor, and Committee Member
 
 ##### - Graduate Students
 
@@ -85,7 +85,7 @@ Engineering Honor Track (with thesis)
 Other
 
 - Israel Alvarez, 2023
-- Jocelyne Valdivia 2022 - 2023
+- Jocelyne Valdivia 2022 - 2023 -->
 
 
 ### Other Services
