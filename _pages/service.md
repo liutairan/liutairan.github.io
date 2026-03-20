@@ -95,18 +95,38 @@ Other
 - Jocelyne Valdivia 2022 - 2023 -->
 
 
-### Other Services
+### Academic Leadership and Experience
 
-* College of Engineering Grade Appeals Committee (Spring 2023 - )
-* College of Engineering Award Guidelines Subcommittee (Spring 2023 - )
-* CSULB Undergraduate Honor Program Symposium Moderator/Facilitator (Spring 2023)
-* CSULB Student Research Competition Juror (Spring 2023, 2024)
-* Department of Mechanical and Aerospace Engineering Comprehensive Exam Committee (Fall 2022 - )
-* Department meeting co-secretary (Fall 2022 - )
+- University
+    * CSULB University Honors Program Research Exploration Event Series, Invited Speaker, 2025
+    * CSULB University Honors Program, Admission Application Reviewer, 2025
+    * CSULB Undergraduate Honor Program Symposium Moderator/Facilitator (Spring 2023, Spring 2025)
+    * SULB Student Research Competition Juror (Spring 2023, Spring 2024, Spring 2025)
+ 
+- College
+    * College of Engineering Grade Appeals Committee (Fall 2023 -- Spring 2024, Fall 2024 -- Spring 2025 (Chair), Fall 2025 -- Spring 2026)
+    * College of Engineering Award Guidelines Subcommittee (Spring 2023 -- Spring 2024)
+ 
+- Department
+    * Department of Mechanical and Aerospace Engineering Graduate Studies Committee (Fall 2025 --  )
+    * Department of Mechanical and Aerospace Engineering T/TT Faculty Search Committee (AI/Robotics), Chair (Fall 2024 -- Spring 2025)
+    * epartment of Mechanical and Aerospace Engineering Election Committee (Fall 2024 -- Spring 2025, Fall 2025 -- Spring 2026 (Chair))
+    * Department of Mechanical and Aerospace Engineering Graduate Comprehensive Exam Committee, \textbf{Chair} (Fall 2022 -- )
+    * Department of Mechanical and Aerospace Engineering Library Liaison (Fall 2025 -- )
+    * Course Coordinator: MAE 376, MAE 476, and MAE 573 (Fall 2022 -- )
+    * ABET Course Coordinator: MAE 376 and MAE 476
+    * Department Meeting Recorder (Fall 2022 -- Spring 2024)
 
-### Outreach Activities
-
+### Student Organization Advisor
 * SharkSat (2023 - )
 * Long Beach Lunabotics (2023 - 2025)
 * Long Beach Rockety (2023)
+
+### Outreach Activities
+* CSULB Math Beach Event, Keynote Speaker, ''The Invisible Blueprint: How Math Shapes the World of Engineering'' (2025) 
+* Space Beach Summer Camp, Session Organizer, ''CubeSat Mission: SharkSat-1'' (2024)
+* Engineering Girls @ the Beach Day, Session Organizer, Keynote Speaker, ''The Present and Future of Robotics'' (2023)
+* FIRST Robotics, Faculty Advisor for Girls' Academic Leadership Academy (2022)
+
+
 * Engineering Girls @ the Beach Day (2023)
