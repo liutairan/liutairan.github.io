@@ -25,11 +25,6 @@ Tairan Liu received his B.Sc. degree in Theoretical and Applied Mechanics at the
 ### Research Interests
 * System and Control Theory
 * Multi-Agent / Robot System
-* Cyber-Physical System
-* Complex Network
-* Large-Scale Networked System
-* Cooperative Control
-* Distributed System / Algorithm
 * Human-Robot / Swarm Interaction
 * Robotics
 * Applications or intersections of the above areas:
