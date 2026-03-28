@@ -41,6 +41,7 @@ author_profile: true
 * IEEE Transactions on Human-Machine Systems
 * IEEE Transactions on Industrial Electronics
 * IEEE Transactions on Robotics
+* IEEE Transactions on Systems, Man and Cybernetics: Systems
 * International Journal of Environmental Research and Public Health
 * Journal of Marine Science and Engineering
 * Machines
@@ -62,10 +63,11 @@ author_profile: true
 * IEEE Green Energy and Smart Systems Conference
 * IEEE International Conference on Intelligent Robots and Systems
 * IEEE/SICE International Symposium on System Integration (SII)
-* IEEE International Conference on Robotics and Automation
+* IEEE International Conference on Robotics and Automation (ICRA)
 * IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
-* IEEE/ASME International Conference on Advanced Intelligent Mechatronics
-* IFAC World Congress
+* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+* IFAC World Congress (IFAC-WC)
 
 
 <!-- ### Mentor, Advisor, and Committee Member
