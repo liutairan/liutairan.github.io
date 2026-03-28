@@ -57,10 +57,10 @@ author_profile: true
 * Sensors
 
 ##### - Conference
-* American Control Conference
-* IEEE Conference on Control Technology and Applications
-* IEEE Conference on Decision and Control
-* IEEE Green Energy and Smart Systems Conference
+* American Control Conference (ACC)
+* IEEE Conference on Control Technology and Applications (CCTA)
+* IEEE Conference on Decision and Control (CDC)
+* IEEE Green Energy and Smart Systems Conference (GESS)
 * IEEE/SICE International Symposium on System Integration (SII)
 * IEEE International Conference on Robotics and Automation (ICRA)
 * IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
