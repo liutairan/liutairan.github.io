@@ -69,40 +69,13 @@ author_profile: true
 * IFAC World Congress (IFAC-WC)
 
 
-<!-- ### Mentor, Advisor, and Committee Member
-
-##### - Graduate Students
-
-- Steve Maldonado Melendez (Fall 2023 - )
-- Jake Beadles (Fall 2023)
-- Jagrut Alpeshbhai Patel (Spring 2023 - Summer 2023)
-- Hiroto Miyamura (Spring 2023 - )
-- Alexander Wang (Fall 2022 - )
-
-##### - Undergraduate Students
-
-Engineering Honor Track (with thesis)
-
-- Samantha Villa Floran, 2023 - 
-- Mitchell Hein, 2023 - 2024
-- Edwin Gomez, 2023
-- Adam Nguyen, 2022 - 2023
-- Josh Pastizzo, 2022 - 2023
-- Juan Rodríguez, 2022 - 2023
-
-Other
-
-- Israel Alvarez, 2023
-- Jocelyne Valdivia 2022 - 2023 -->
-
-
 ### Academic Leadership and Experience
 
 - University
     * CSULB University Honors Program Research Exploration Event Series, Invited Speaker, 2025
-    * CSULB University Honors Program, Admission Application Reviewer, 2025
+    * CSULB University Honors Program, Admission Application Reviewer, 2025, 2026
     * CSULB Undergraduate Honor Program Symposium Moderator/Facilitator (Spring 2023, Spring 2025)
-    * SULB Student Research Competition Juror (Spring 2023, Spring 2024, Spring 2025)
+    * CSULB Student Research Competition Juror (Spring 2023, Spring 2024, Spring 2025, Spring 2026)
  
 - College
     * College of Engineering Grade Appeals Committee (Fall 2023 -- Spring 2024, Fall 2024 -- Spring 2025 (Chair), Fall 2025 -- Spring 2026)
