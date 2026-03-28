@@ -61,7 +61,6 @@ author_profile: true
 * IEEE Conference on Control Technology and Applications
 * IEEE Conference on Decision and Control
 * IEEE Green Energy and Smart Systems Conference
-* IEEE International Conference on Intelligent Robots and Systems
 * IEEE/SICE International Symposium on System Integration (SII)
 * IEEE International Conference on Robotics and Automation (ICRA)
 * IEEE RAS/EMBS International Conference on Biomedical Robotics and Biomechatronics
