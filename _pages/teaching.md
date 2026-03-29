@@ -12,15 +12,18 @@ author_profile: true
 * **Modeling and Analysis of Dynamic Systems** (MAE 376) 
   - Fall 2022, 2023, 2024
   - Spring 2026
-* **Fundamentals of Robotics** (MAE 475) - TBD
+* **Fundamentals of Robotics** (MAE 475) 
+  - TBD
 * **Mechanical Control Systems I** (MAE 476) 
   - Spring 2023, 2024, 2025 
   - Fall 2025, 2026
 * **Modern Control of Dynamic Systems** (MAE 573)<sup>\*</sup> 
   - Fall 2022, 2023, 2024, 2025, 2026 
   - Spring 2026
-* **Robot Modeling and Control** (MAE 575)<sup>\*</sup> - Fall 2022, 2024<sup>&dagger;</sup> 
-* **Nonlinear Systems and Control** (MAE 590)<sup>\*</sup> - TBD
+* **Robot Modeling and Control** (MAE 575)<sup>\*</sup> 
+  - Fall 2022, 2024<sup>&dagger;</sup> 
+* **Nonlinear Systems and Control** (MAE 590)<sup>\*</sup> 
+  - TBD
 
 ### @ North Carolina State University
 
